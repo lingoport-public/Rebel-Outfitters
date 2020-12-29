@@ -1,13 +1,13 @@
 {
     "title": {
-    "1":"3P0 Ambassadeur",
-    "2":"Droïde série DUM",
+    "1": "3P0 Ambassadeur",
+    "2": "Droïde série DUM",
     "3": "2-1B Droïde chirurgical",
     "4": "IG-88B Droïde",
-    "5":"Sphyrna l'Espèrance",
+    "5": "Sphyrna l'Espèrance",
     "6": "Droïde de réparation G2",
     "7": "CR90 Corvette",
-    "8":"74-Z Motoraptor",
+    "8": "74-Z Motoraptor",
     "9": "Intercepteur ETA-2",
     "10": "Droïde série R3",
     "11": "T-70 X-Wing",
@@ -42,10 +42,10 @@
     "cartAlt": "Afficher le panier",
     "navLinkHome": "ACCUEIL",
     "navLinkDroids": "DROÏDES",
-    "navLinkVehicles":"VÉHICULES"
+    "navLinkVehicles": "VÉHICULES"
     },
     "Home": {
-    "welcomeMessage":"Bienvenue chez Rebel Outfitters !",
+    "welcomeMessage": "Bienvenue chez UW Rebel Outfitters !",
     "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les écraser).",
     "symbolAlt": "Symbole de devise du crédit impérial"
     },
@@ -54,7 +54,7 @@
     "vehicleTitle": "Tous les véhicules"
     },
     "Checkout": {
-    "checkoutTitle":"Paiements",
+    "checkoutTitle": "Paiements",
     "shipSectionLabel": "Informations sur l'expédition",
     "firstNameLabel": "Prénom",
     "lastNameLabel": "Nom",
@@ -96,7 +96,7 @@
     },
     "OrderHistory": {
     "historyTitle": "Historique des commandes",
-    "dateHeading":"Date",
+    "dateHeading": "Date",
     "numberHeading": "Numéro de commande",
     "totalHeading": "Total",
     "statusHeading": "Statut"
