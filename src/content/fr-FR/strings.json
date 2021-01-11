@@ -54,7 +54,7 @@
     "vehicleTitle": "Tous les véhicules"
     },
     "Checkout": {
-    "checkoutTitle": "Paiements",
+    "checkoutTitle":"Commandes",
     "shipSectionLabel": "Informations sur l'expédition",
     "firstNameLabel": "Prénom",
     "lastNameLabel": "Nom",
