@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0 Embajador",
+    "1":"Embajador 3PO",
     "2": "DUM-Series Droid",
     "3": "Droide quirúrgico 2-1B",
     "4": "IG-88B Droid",
@@ -40,7 +40,7 @@
     "historyLink": "HISTORIAL DE PEDIDOS",
     "arrowAlt": "Flecha desplegable",
     "cartAlt": "mostrar carrito",
-    "navLinkHome": "HOGAR",
+    "navLinkHome":"PRINCIPAL",
     "navLinkDroids": "DROIDES",
     "navLinkVehicles": "VEHÍCULOS"
     },
