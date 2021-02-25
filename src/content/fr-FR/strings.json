@@ -1,16 +1,16 @@
 {
     "title": {
-    "1":"3P0",
+    "1": "3P0 Premier ambassadeur",
     "2": "Droïde série DUM",
-    "3": "2-1B Droïde chirurgical",
+    "3": "2-1B Docteur Droïde",
     "4": "IG-88B Droïde",
     "5": "Sphyrna l'Espèrance",
-    "6":"Droïde de Réparation G2",
-    "7":"CR90 Corvette",
-    "8":"74-Z Véloraptor",
+    "6": "Droïde de Réparation G2",
+    "7": "CR90 Corvette",
+    "8": "74-Z Véloraptor",
     "9": "Intercepteur ETA-2",
     "10": "Droïde série R3",
-    "11":"T-70 Ailes en X",
+    "11": "T-70 Ailes en X",
     "12": "Chasseur galactique à aile Y",
     "13": "Droïde super tactique",
     "17": "Les nombres premiers sont tellement cool",
@@ -45,8 +45,8 @@
     "navLinkVehicles": "VÉHICULES"
     },
     "Home": {
-    "welcomeMessage":"Bienvenue chez Rebel Outfitters - Vive les rebelles !",
-    "welcomeSubtitle":"Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les battre).",
+    "welcomeMessage": "Bienvenue chez Rebel Outfitters - Vive les rebelles !",
+    "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les battre).",
     "symbolAlt": "Symbole de devise du crédit impérial"
     },
     "Browse": {
@@ -54,7 +54,7 @@
     "vehicleTitle": "Tous les véhicules"
     },
     "Checkout": {
-    "checkoutTitle":"Commandes",
+    "checkoutTitle": "Commandes",
     "shipSectionLabel": "Informations sur l'expédition",
     "firstNameLabel": "Prénom",
     "lastNameLabel": "Nom",
@@ -66,7 +66,7 @@
     "shipOvernight": "Nuitée",
     "shipStandard": "Standard",
     "paySectionLabel": "Paiement",
-    "payNameLabel":"Nom, Prénom",
+    "payNameLabel": "Nom, Prénom",
     "payNameHolder": "Premier Dernier",
     "accountLabel": "Numéro de crédit impérial",
     "accountHolder": "1234567-9876-00",

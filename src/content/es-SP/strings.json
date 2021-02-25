@@ -1,13 +1,13 @@
 {
     "title": {
-    "1":"Embajador 3PO",
+    "1": "3P0 Primer Embajador",
     "2": "DUM-Series Droid",
-    "3": "Droide quirúrgico 2-1B",
+    "3": "2-1B Doctor Droid",
     "4": "IG-88B Droid",
     "5": "Esfirna Corbeta",
     "6": "Droide de reparación G2",
     "7": "CR90 Corbeta",
-    "8":"Carrito 74-Z",
+    "8": "Carrito 74-Z",
     "9": "Interceptor ETA-2",
     "10": "Droid serie R3",
     "11": "T-70 X-Wing",
@@ -40,12 +40,12 @@
     "historyLink": "HISTORIAL DE PEDIDOS",
     "arrowAlt": "Flecha desplegable",
     "cartAlt": "mostrar carrito",
-    "navLinkHome":"PRINCIPAL",
+    "navLinkHome": "PRINCIPAL",
     "navLinkDroids": "DROIDES",
     "navLinkVehicles": "VEHÍCULOS"
     },
     "Home": {
-    "welcomeMessage":"Bienvenido a Rebel Outfitters - Internal Trial!",
+    "welcomeMessage": "Bienvenido a Rebel Outfitters - Internal Trial!",
     "welcomeSubtitle": "Te proporcionamos todo lo que necesitas para encargarte del Imperio (y aplastarlos).",
     "symbolAlt": "Símbolo de moneda de crédito imperial"
     },
