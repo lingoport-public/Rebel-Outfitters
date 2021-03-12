@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0-Botschafter",
+    "1":"3P0",
     "2": "Dum-Serie Droid",
     "3": "2-1B Doktor Droid",
     "4": "IG-88B Droid",
@@ -45,7 +45,7 @@
     "navLinkVehicles": "FAHRZEUGE"
     },
     "Home": {
-    "welcomeMessage": "Willkommen bei Rebel Outfitters - Internal!",
+    "welcomeMessage":"Willkommen bei Rebel Outfitters!",
     "welcomeSubtitle": "Wir bieten alles, was du brauchst, um das Imperium zu übernehmen (und zerquetschen).",
     "symbolAlt": "Währungssymbol für britische Kredit"
     },
