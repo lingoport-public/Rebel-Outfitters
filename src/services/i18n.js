@@ -72,6 +72,9 @@ var currencyMap = {
     'de-DE': 'EUR',
     'ru-RU': 'RUB',
     'ja-JP': 'JPY',
+    'pt-PT': 'EUR',
+    'it-IT': 'EUR',
+    'ko-KO': 'KRW',
     'no-NO': 'NOK'
 };
 
@@ -80,10 +83,16 @@ var convertCurrency = (price) => {
     switch (locale) {
         case 'en-US':
             return price * 0.62;
+        case 'pt-PT':
+            return price * 0.55;
+        case 'it-IT':
+            return price * 0.55;
         case 'fr-FR':
             return price * 0.55;
         case 'zh-CN':
             return price * 4.27;
+        case 'ko-KO':
+            return price * 1927;
         case 'ru-RU':
             return price * 17.77;
         default:
