@@ -70,6 +70,7 @@ var currencyMap = {
     'zh-CN': 'CNY',
     'es-SP': 'EUR',
     'de-DE': 'EUR',
+    'ru-RU': 'RUB',
     'ja-JP': 'JPY',
     'no-NO': 'NOK'
 };
@@ -83,6 +84,8 @@ var convertCurrency = (price) => {
             return price * 0.55;
         case 'zh-CN':
             return price * 4.27;
+        case 'ru-RU':
+            return price * 17.77;
         default:
             return price;
     }
