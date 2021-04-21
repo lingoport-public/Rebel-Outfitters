@@ -1,15 +1,15 @@
 {
     "title": {
-    "1":"3P0 Médiateur",
-    "2":"Dum-Séries Droïde",
-    "3":"2-1B Chirurgien Droïde",
+    "1": "3P0 Médiateur",
+    "2": "Dum-Séries Droïde",
+    "3": "2-1B Chirurgien Droïde",
     "4": "IG-88B Droïde",
-    "5":"Sphyrna Badass",
+    "5": "Sphyrna Badass",
     "6": "Droïde de réparation G2",
     "7": "CR90 Corvette",
-    "8":"74-Z Vélociraptor",
+    "8": "74-Z Vélociraptor",
     "9": "Intercepteur ETA-2",
-    "10":"Droïde modèle R3",
+    "10": "Droïde modèle R3",
     "11": "T-70 X-Wing",
     "12": "Combattant galactique Y-Wing",
     "13": "Super Droïde tactique",
@@ -40,13 +40,13 @@
     "historyLink": "HISTORIQUE DES COMMANDES",
     "arrowAlt": "Flèche déroulante",
     "cartAlt": "Afficher le panier",
-    "navLinkHome":"ACCUEIL",
+    "navLinkHome": "ACCUEIL",
     "navLinkDroids": "DROÏDES",
     "navLinkVehicles": "VÉHICULES"
     },
     "Home": {
     "welcomeMessage": "Bienvenue chez Rebel Outfitters !",
-    "welcomeSubtitle":"Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les battre).",
+    "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les battre).",
     "symbolAlt": "Symbole de devise du Crédit"
     },
     "Browse": {
@@ -121,6 +121,7 @@
     "localeES": "Espagnol - Espagne",
     "localeDE": "Allemand - Allemagne",
     "localeJA": "Japonais - Japon",
+    "localeRU": "Russe - Russie",
     "localeNO": "Norvégien - Norvège",
     "localeYO": "Yoda",
     "localeSI": "Sith",
