@@ -6,7 +6,7 @@
     "4": "IG-88B Droïde",
     "5": "Sphyrna l'Espèrance",
     "6": "Droïde de réparation G2",
-    "7":"CR90 Blazing fast Corvette",
+    "7": "CR90 Blazing fast Corvette",
     "8": "74-Z Motoraptor",
     "9": "Intercepteur ETA-2",
     "10": "Droïde série R3",
@@ -45,7 +45,7 @@
     "navLinkVehicles": "VÉHICULES"
     },
     "Home": {
-    "welcomeMessage": "Bienvenue chez Rebel Outfitters - Interne !",
+    "welcomeMessage": "Happy Summer Rebel Outfitters - Interne !",
     "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les écraser).",
     "symbolAlt": "Symbole de devise du crédit impérial"
     },
@@ -66,7 +66,7 @@
     "shipOvernight": "Nuitée",
     "shipStandard": "Standard",
     "paySectionLabel": "Paiement",
-    "payNameLabel":"abcdefsg",
+    "payNameLabel": "abcdefsg",
     "payNameHolder": "Premier Dernier",
     "accountLabel": "Numéro de crédit impérial",
     "accountHolder": "1234567-9876-00",
