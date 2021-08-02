@@ -1,7 +1,7 @@
 {
     "title": {
-    "1":"3P0",
-    "2":"DUM-Séries Droïde",
+    "1": "3P0",
+    "2": "DUM-Séries Droïde",
     "3": "2-1B Neurochirurgien Droïde",
     "4": "IG-88B Droïde",
     "5": "Sphyrna Corvette",
@@ -11,7 +11,7 @@
     "9": "Intercepteur ETA-2",
     "10": "Droïde modèle R3",
     "11": "T-70 X-Wing",
-    "12":"Vaisseau galactique Y-Wing",
+    "12": "Vaisseau galactique Y-Wing",
     "13": "Super Droïde tactique",
     "17": "Les nombres premiers sont si cool",
     "18": "Devinez ce numéro !"
@@ -32,7 +32,7 @@
     "13": "Un bon droïde pour coordonner les attaques. Pas bon pour se battre, juste bon pour planifier."
     },
     "Navbar": {
-    "searchPlaceholder": "Qu'est-ce que tu cherches ?",
+    "searchPlaceholder": "Que recherchez-vous ?",
     "searchButtonLabel": "recherche de produits",
     "logoAlt": "Logo des pourvoyeurs Rebel",
     "searchIconAlt": "icône de recherche",
@@ -46,7 +46,7 @@
     },
     "Home": {
     "welcomeMessage": "Bienvenue chez Rebel Outfitters !",
-    "welcomeSubtitle":"Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les ecraser).",
+    "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les ecraser).",
     "symbolAlt": "Symbole de devise du Crédit"
     },
     "Browse": {
@@ -54,7 +54,7 @@
     "vehicleTitle": "Tous les véhicules"
     },
     "Checkout": {
-    "checkoutTitle":"Paiement",
+    "checkoutTitle": "Paiement",
     "shipSectionLabel": "Infos d'expédition",
     "firstNameLabel": "Prénom",
     "lastNameLabel": "Nom",

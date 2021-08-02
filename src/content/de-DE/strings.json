@@ -7,11 +7,11 @@
     "5": "Sphyrna Korvette",
     "6": "G2-Mechaniker-Droide",
     "7": "CR90 Korvette",
-    "8":"74-Z Super Fahr rad",
+    "8": "74-Z Super Fahr rad",
     "9": "ETA-2-Abfangjäger",
     "10": "Droid der R3-Serie",
     "11": "T-70 X-Wing",
-    "12":"Y-Aile Galactique Kämpfer",
+    "12": "Y-Aile Galactique Kämpfer",
     "13": "Super Taktischer Droid",
     "17": "Primzahlen sind so cool",
     "18": "Raten Sie diese Zahl!!"
@@ -32,7 +32,7 @@
     "13": "Ein ziemlich guter Droid für die Koordinierung von Angriffen. Nicht gut im Kampf, nur gut im Planen."
     },
     "Navbar": {
-    "searchPlaceholder": "Womit suchen Sie?",
+    "searchPlaceholder": "Womit suchst du?",
     "searchButtonLabel": "Produkte suchen",
     "logoAlt": "Rebel Outfitters Logo",
     "searchIconAlt": "Suchsymbol",
