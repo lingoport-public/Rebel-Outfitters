@@ -62,7 +62,7 @@
     "coordinatesHolder": "0,0,0",
     "sectorLabel": "Secteur/Quadrant",
     "methodLabel": "Mode d'expédition",
-    "shipLightspeed": "Vitesse lumineuse",
+    "shipLightspeed":"Vitesse lumière",
     "shipOvernight": "Nuit",
     "shipStandard": "Norme",
     "paySectionLabel": "Paiement",
