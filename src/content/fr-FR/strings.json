@@ -2,7 +2,7 @@
     "title": {
     "1": "3P0",
     "2": "DUM-Séries Droïde",
-    "3": "2-1B Neurochirurgien Droïde",
+    "3": "Droïde Hyper Neurochirurgien 2-1B",
     "4": "IG-88B Droïde",
     "5": "Sphyrna Corvette",
     "6": "Droïde mécanicien G2",
@@ -46,7 +46,7 @@
     },
     "Home": {
     "welcomeMessage": "Bienvenue chez Rebel Outfitters !",
-    "welcomeSubtitle":"Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les écraser).",
+    "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les écraser).",
     "symbolAlt": "Symbole de devise du Crédit"
     },
     "Browse": {
@@ -54,7 +54,7 @@
     "vehicleTitle": "Tous les véhicules"
     },
     "Checkout": {
-    "checkoutTitle":"Commande",
+    "checkoutTitle": "Commande",
     "shipSectionLabel": "Infos d'expédition",
     "firstNameLabel": "Prénom",
     "lastNameLabel": "Nom",
@@ -62,7 +62,7 @@
     "coordinatesHolder": "0,0,0",
     "sectorLabel": "Secteur/Quadrant",
     "methodLabel": "Mode d'expédition",
-    "shipLightspeed":"Vitesse lumière",
+    "shipLightspeed": "Vitesse lumière",
     "shipOvernight": "Nuit",
     "shipStandard": "Norme",
     "paySectionLabel": "Paiement",

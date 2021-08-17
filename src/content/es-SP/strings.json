@@ -2,7 +2,7 @@
     "title": {
     "1": "3P0 Embajador",
     "2": "DUM-Series Droid",
-    "3": "2-1B Cirujano Cerebral Droide",
+    "3": "2-1B Hyper Neurocirujano Droide",
     "4": "IG-88B Droid",
     "5": "Esfirna Corbeta",
     "6": "Droid Mecánico G2",
@@ -45,7 +45,7 @@
     "navLinkVehicles": "VEHÍCULOS"
     },
     "Home": {
-    "welcomeMessage":"¡Bienvenido al rincón del rebelde!",
+    "welcomeMessage": "¡Bienvenido al rincón del rebelde!",
     "welcomeSubtitle": "Te proporcionamos todo lo que necesitas para encargarte del Imperio (y aplastarlos).",
     "symbolAlt": "Símbolo de moneda de crédito imperial"
     },
