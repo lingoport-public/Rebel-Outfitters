@@ -1,14 +1,14 @@
 {
     "title": {
-    "1": "3P0",
+    "1": "Ambassadeur P30 2",
     "2": "DUM-Séries Droïde",
-    "3":"Droïde Neurochirurgien 2-1B",
+    "3": "Droïde Neurochirurgien 2-1B",
     "4": "IG-88B Droïde",
     "5": "Sphyrna Corvette",
-    "6":"Droïde garagiste G2",
+    "6": "Droïde garagiste G2",
     "7": "CR90 Corvette",
-    "8":"74-Z Vélocirapteur",
-    "9":"Intercepteur ETA*2",
+    "8": "74-Z Vélocirapteur",
+    "9": "Intercepteur ETA*2",
     "10": "Droïde modèle R3",
     "11": "T-70 X-Wing",
     "12": "Vaisseau galactique Y-Wing",
@@ -46,7 +46,7 @@
     },
     "Home": {
     "welcomeMessage": "Bienvenue chez Rebel Outfitters !",
-    "welcomeSubtitle":"Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les battre).",
+    "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les battre).",
     "symbolAlt": "Symbole de devise du Crédit"
     },
     "Browse": {
