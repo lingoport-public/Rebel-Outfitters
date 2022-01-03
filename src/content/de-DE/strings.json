@@ -1,13 +1,13 @@
 {
     "title": {
-    "1": "P30 Botschafter",
+    "1": "3P0 supra humanoid",
     "2": "Dum-Serie Droid",
     "3": "2-1B Hyper-Neurochirurg Droid",
     "4": "IG-88B Droid",
     "5": "Sphyrna Korvette",
     "6": "G2-Mechaniker-Droide",
     "7": "CR90 Korvette",
-    "8":"74-Z Super Rad",
+    "8": "74-Z Super Rad",
     "9": "ETA-2-Abfangjäger",
     "10": "Droid der R3-Serie",
     "11": "T-70 X-Wing",
@@ -28,7 +28,7 @@
     "9": "Mit einer Länge von 5,47 Metern ist der ETA-2 ein äußerst manövrierbarer, kämpfungsorientierter Starfighter und schneller als sein Aethersprite Vorgänger, mit Twin-Ionen-Motoren, die eine maximale Beschleunigung von 5.200 G und eine maximale Geschwindigkeit von 1.500 km/h bieten. Die Eta-2 verfügt über Flügel mit oberen und unteren Kühlerplatten, S-Folien, die geöffnet werden, um überschüssige Wärme von den Motoren des Schiffes abzugeben. Die Kühlerflügel werden vor allem im intensiven Kampf geöffnet. Zur Verteidigung verfügte das Schiff über zwei Laserkanonen und zwei Ionenkanonen. Im Gegensatz zu Laserkanonen feuern die Ionenkanonen des Schiffes Plasmaplatzen ab, die bei einem Aufprall vorübergehende elektrische Störungen auf ihr Ziel verursachen.",
     "10": "Der Astromech-Droid der R3-Serie verfügt über viel von der gleichen Hardware wie sein Vorgänger, die R2-Einheit, fehlt nur der erweiterbare Videosensor des früheren Droiden. Das Chassis des R3 ist größtenteils zylindrisch und erscheint als aufrechtes Rohr mit einem kurzen, abgeschnittenem Kegel an der Basis. Halten Sie den Droiden aufrecht sind zwei schmale Beine, von denen jeder in einem Lauffuss, der wie trapezförmige Prismen geformt ist, enden, ein drittes Bein ist im Droidenkörper untergebracht und könnte bei Bedarf verlängert werden, um größere Stabilität zu leisten. Das Design des Gerätes ist eine robuste, rotierende, plastex oder transparisteel Kuppel. Der Astromech ist versiegelt, um Funktionalität im Vakuum des Raumes zu ermöglichen.",
     "11": "Der T-70 X-Wing Starfighter ist ein kreuzförmiger Sternenjäger mit einer Länge von 12,48 Metern und einer maximalen Kapazität von einem einzelnen Piloten und unten belasteten Astromechdroiden, der in eine Steckdose passt und variabel für verschiedene Modelle konfiguriert werden kann. Bei Bedarf kann der Droid den Sternenjäger ohne Hilfe eines Piloten fliegen und kann dies sogar aus der Ferne tun. Der Zielcomputer des Schiffes, Flugkontrollen und andere wichtige Steuerinstrumente befinden sich in einem gepanzerten Cockpitmodul, unter dem ein abnehmbarer flüssigkeitsgekühlter Flugcomputer den Piloten bei schiffsbasierten Operationen weiter unterstützt. In der „Nase“ des Schiffes befinden sich Zugangsfelder für den Computerzugriff und die Lagerung sowie ein Hilfsgenerator und ein Lagerbereich, der typischerweise zum Verstauen von Überlebensgeräten verwendet wird. Ein kleines Sensorfenster markiert die Position des primären Sensorarrays der Schiffe an der Spitze der Nase, die sich hinter einem Notfeuer befindet. Hinter dem Piloten ermöglicht ein integriertes Lebenserhaltungssystem dem Insassen das Atmen einer sauerstoffhaltigen Atmosphäre.",
-    "12": "Der Y-Flügel-Starfighter ist liebevoll als „Querlenker“ für die Rebellen-Allianz und die New Republic Piloten bekannt und wird als Jagdbomber eingesetzt, um seinen Weg zu seinem Ziel zu kämpfen, seine Nutzlast von Sprengstoffen zu liefern und seinen Weg wieder zu kämpfen. Seine Waffen umfassen zwei Laserkanonen, zwei Ionenkanonen und zwei Protonen-Torpedowerfer. Ein Astromech-Droid, wie eine R2-Einheit, kann in eine Steckdose hinter dem Cockpit gesteckt werden, um als Co-Pilot zu fungieren und die verschiedenen Systeme des Schiffes zu verwalten.",
+    "12": "Der Y-Wing-Raumjäger, der den Piloten der Rebel Alliance und der New Republic liebevoll als „Querlenker“ bekannt ist, wird als Jagdbomber eingesetzt, um sein Ziel zu erreichen, seine Nutzlast an Sprengstoff zu liefern und sich erneut den Weg nach draußen zu kämpfen. Seine Waffen umfassen zwei Laserkanonen, zwei Ionenkanonen und zwei Protonentorpedowerfer. Ein Astromech-Droide, z. B. eine R2-Einheit, kann an eine Steckdose unter dem Cockpit angeschlossen werden, um als Copilot zu fungieren und die verschiedenen Systeme des Schiffes zu verwalten.",
     "13": "Ein ziemlich guter Droid für die Koordinierung von Angriffen. Nicht gut im Kampf, nur gut im Planen."
     },
     "Navbar": {

@@ -1,13 +1,13 @@
 {
     "title": {
-    "1": "Embajador de los 30",
+    "1": "humanoide 3P0 supra",
     "2": "DUM-Series Droid",
-    "3":"2-1B Hiper Neurocirujano Droide",
+    "3": "2-1B Hiper Neurocirujano Droide",
     "4": "IG-88B Droid",
     "5": "Esfirna Corbeta",
     "6": "Droid Mecánico G2",
     "7": "CR90 Corbeta",
-    "8":"Superbicycletta 74-Z",
+    "8": "Superbicycletta 74-Z",
     "9": "Interceptor ETA-2",
     "10": "Droid serie R3",
     "11": "T-70 X-Wing",
@@ -28,7 +28,7 @@
     "9": "Con 5,47 metros de longitud, el ETA-2 es un caza estelar altamente maniobrable orientado al combate y es más rápido que su predecesor Aethersprite, con motores de iones gemelos que proporcionan una aceleración máxima de 5.200G y una velocidad máxima de 1.500 km/h. El Eta-2 cuenta con alas con paneles superiores e inferiores del radiador, láminas S, que se abren para arrojar el exceso de calor de los motores de la nave. Las alas del radiador se abren principalmente durante el combate intenso. En defensa, la nave tenía dos cañones láser y dos cañones de iones. A diferencia de los cañones láser, los cañones iónicos de la nave disparan ráfagas de plasma que causan interrupciones eléctricas temporales a su objetivo en caso de impacto.",
     "10": "El droide astromecánico de la serie R3 cuenta con gran parte del mismo hardware que su predecesor, la unidad R2, careciendo solo del sensor de video extensible del droide anterior. El chasis del R3 es en gran medida cilíndrico, apareciendo como un tubo vertical con un cono corto y truncado en su base. Manteniendo el droide en posición vertical son dos patas estrechas, cada una de las cuales terminan en un pie con forma de prismas trapezoidales, una tercera pierna está alojada dentro del cuerpo droide y podría extenderse cuando sea necesario para permitir una mayor estabilidad. Al tapar el diseño de la unidad se encuentra una cúpula resistente, giratoria, plastex o transparisteel. El astromech está sellado para permitir la funcionalidad en el vacío del espacio.",
     "11": "El caza estelar T-70 X-wing es un caza estelar cruciforme que mide 12,48 metros de longitud con una capacidad máxima de un solo piloto y droide astromecánico de carga inferior, que encaja en un zócalo y se puede configurar de forma variable para diferentes modelos. Si es necesario, el droide puede volar el caza estelar sin la ayuda de un piloto, e incluso puede hacerlo remotamente. El ordenador de ataque del buque, los controles de vuelo y otros instrumentos de pilotaje esenciales se encuentran dentro de un módulo blindado de cabina, bajo el cual un ordenador de vuelo extraíble refrigerado por líquido ayuda aún más al piloto en las operaciones basadas en buques. Existen paneles de acceso para el acceso y almacenamiento de computadoras dentro de la «nariz» de la embarcación, junto con un generador auxiliar y un área de almacenamiento que se utiliza normalmente para guardar equipo de supervivencia. Una pequeña ventana de sensor marca la ubicación de la matriz de sensores primaria de los barcos en la punta de la punta de la nariz, situada detrás de una baliza de emergencia. Detrás del piloto, un sistema de soporte vital integrado permite al ocupante respirar en una atmósfera oxigenada.",
-    "12": "Conocido cariñosamente como «espina de deseos» para los pilotos de la Alianza Rebelde y Nueva República, el caza estelar del ala Y se despliega como caza-bombardero, diseñado para luchar su camino hacia su objetivo, entregar su carga útil de explosivos altos y luchar contra su salida de nuevo. Su armamento incluye dos cañones láser, dos cañones de iones y dos lanzadores de torpedos de protones. Un droide astromecánico, como una unidad R2, puede ser enchufado en un zócalo detrás de la cabina para actuar como copiloto y gestionar los diversos sistemas del barco.",
+    "12": "Conocido afectuosamente como una «espoleta» para los pilotos de la Alianza Rebelde y Nueva República, el caza estelar Y-wing se despliega como cazabombardero, diseñado para abrirse camino hacia su objetivo, entregar su carga útil de explosivos de alta potencia y luchar para salir de nuevo. Su armamento incluye dos cañones láser, dos cañones de iones y dos lanzadores de torpedos de protones. Un droide astromecánico, como una unidad R2, se puede conectar a un enchufe debajo de la cabina para que actúe como copiloto y administre los diversos sistemas de la nave.",
     "13": "Un droide bastante bueno para coordinar ataques. No es bueno peleando, solo bueno planeando."
     },
     "Navbar": {
