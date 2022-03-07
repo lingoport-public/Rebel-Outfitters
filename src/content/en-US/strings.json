@@ -1,8 +1,8 @@
 {
     "title": {
-        "1": "3P0 Ambassador",
+        "1": "3P0 Negotiator",
         "2": "DUM-series Droid",
-        "3": "2-1B Doctor Droid",
+        "3": "2-1B Droid",
         "4": "IG-88B Droid",
         "5": "Sphyrna Corvette",
         "6": "G2 Repair Droid",
@@ -46,7 +46,7 @@
     },
     "Home": {
         "welcomeMessage": "Welcome to Rebel Outfitters!",
-        "welcomeSubtitle": "We provide everything you need to take on the Empire (and crush them).",
+        "welcomeSubtitle": "We provide everything you need to take on the Empire (and defeat them).",
         "symbolAlt": "Imperial Credit currency symbol"
     },
     "Browse": {
