@@ -1,0 +1,144 @@
+{
+  "Bottombar": {
+    "menuAlt": "Otwórz menu paska bocznego"
+  },
+  "Browse": {
+    "droidTitle": "Wszystkie Droidy",
+    "vehicleTitle": "Wszystkie pojazdy"
+  },
+  "Cart": {
+    "cartTitle": "Koszyk",
+    "checkoutLabel": "KASA",
+    "closeAlt": "Zamknij koszyk",
+    "deleteAlt": "Usuń przedmiot z koszyka",
+    "noItemMsg": "Brak pozycji w koszyku.",
+    "totalTitle": "Ogółem: "
+  },
+  "Checkout": {
+    "accountHolder": "1234567-9876-00",
+    "accountLabel": "Imperialny numer kredytowy",
+    "cartTitle": "Koszyk",
+    "checkoutTitle": "Zamówienie",
+    "coordinatesHolder": "0,0,0",
+    "coordinatesLabel": "Współrzędne",
+    "deleteAlt": "usuń przedmiot z koszyka",
+    "expDateLabel": "Data wygaśnięcia",
+    "firstNameLabel": "Imię",
+    "lastNameLabel": "Nazwisko",
+    "methodLabel": "Metoda wysyłki",
+    "noItemMessage": "Dodaj przedmioty do koszyka do kasy.",
+    "orderLabel": "ZŁOŻYĆ ZAMÓWIENIE",
+    "payNameHolder": "Pierwszy ostatni",
+    "payNameLabel": "Imię i nazwisko na karcie",
+    "paySectionLabel": "Zapłata",
+    "sectorLabel": "Sektor/Kwadrant",
+    "securityHolder": "123456",
+    "securityLabel": "Kod bezpieczeństwa",
+    "shipLightspeed": "Szybkość światła",
+    "shipOvernight": "Noc",
+    "shipSectionLabel": "Informacje o wysyłce",
+    "shipStandard": "Standardowy",
+    "successMessage": "Zamówienie złożone pomyślnie!",
+    "termsLink": "(Widok)",
+    "termsStatement": "Zapoznałem się z Regulaminem i akceptuję",
+    "totalLabel": "Ogółem: "
+  },
+  "Error404": {
+    "errorMessage": "Błąd 404: Nie znaleziono strony."
+  },
+  "Hamburger": {
+    "contactLabel": "Skontaktuj się z nami",
+    "dashLabel": "Wyświetl tablicę rozdzielczą Lingoport",
+    "githubLabel": "Wyświetl źródło",
+    "githubLogoAlt": "Logo GitHub",
+    "learnLabel": "Dowiedz się więcej",
+    "lingoLogoAlt": "Logo Lingoport",
+    "localeDE": "Niemiecki - Niemcy",
+    "localeEN": "Polish - Stany Zjednoczone",
+    "localeEO": "Esperanto",
+    "localeES": "Hiszpański - Hiszpania",
+    "localeFR": "Francuski - Francja",
+    "localeIA": "Recenzent językowy",
+    "localeIT": "Włoski - Włochy",
+    "localeJA": "Japoński - Japonia",
+    "localeKO": "Koreański - Korea",
+    "localeLabel": "Ustawienia regionalne: ",
+    "localeNO": "Norweski - Norwegia",
+    "localePT": "Portugalski - Portugalia",
+    "localeRU": "Rosyjski - Rosja",
+    "localeSI": "Sithowie",
+    "localeYO": "Yoda",
+    "localeZH": "Chiński - Chiny",
+    "versionBad": "Niezgodny z normą I18N",
+    "versionGood": "Zgodność z i18n",
+    "versionIQA": "InContext",
+    "versionLabel": "Wersja: "
+  },
+  "Home": {
+    "symbolAlt": "Symbol waluty kredytowej",
+    "welcomeMessage": "Witamy w Rebel Outfitters!",
+    "welcomeSubtitle": "Zapewniamy wszystko, czego potrzebujesz, aby zająć się Imperium (i je pokonać)."
+  },
+  "Navbar": {
+    "arrowAlt": "Strzałka w dół",
+    "cartAlt": "pokaż koszyk",
+    "greetingText": "Cześć Han",
+    "historyLink": "HISTORIA ZAMÓWIEŃ",
+    "logoAlt": "Logo Rebeliantów",
+    "navLinkDroids": "DROIDY",
+    "navLinkHome": "DOMU",
+    "navLinkVehicles": "POJAZDÓW",
+    "searchButtonLabel": "wyszukuj produkty",
+    "searchIconAlt": "ikona wyszukiwania",
+    "searchPlaceholder": "Czego szukasz?"
+  },
+  "OrderHistory": {
+    "dateHeading": "Data",
+    "historyTitle": "Historia zamówień",
+    "numberHeading": "Numer zamówienia",
+    "statusHeading": "Status",
+    "totalHeading": "Łącznie"
+  },
+  "Order": {
+    "statusDelivered": "Dostarczone",
+    "statusProcessing": "Przetwarzanie",
+    "statusShipped": "Wysyłane"
+  },
+  "ProductShow": {
+    "addToCartLabel": "DODAJ DO KOSZYKA",
+    "qtyLabel": "Ilość: "
+  },
+  "Special": "Specjalne",
+  "desc": {
+    "1": "Ten droid jest wyposażony w SyntheTech AA-1 VerboBrain, dzięki czemu są zdolne do przechowywania ogromnych ilości informacji, dodatkowa przestrzeń pamięci jest często używana do utrzymania modułów komunikacyjnych w aktywnej pamięci, dzięki czemu można uniknąć długich opóźnień podczas wyszukiwania informacji językowych na średnim tłumaczeniu. Moduł komunikacyjny TranLang III pozwala im płynnie przebiegać w ponad sześciu milionach form komunikacji. Posiadają również umiejętności niezbędne do szybkiej analizy nowych niezarejestrowanych języków i tłumaczenia ich na bardziej znane.",
+    "10": "Droid astromech z serii R3 posiada wiele tego samego sprzętu, co jego poprzednik, jednostka R2, pozbawiając tylko wysuwalnego czujnika wideo wcześniejszego droida. Podwozie R3 jest w dużej mierze cylindryczne, pojawia się jako pionowa rura z krótkim, ściętym stożkiem u podstawy. Utrzymywanie droida w pozycji pionowej są dwie wąskie nogi, z których każda kończy się w stopie bieżnikowanej w kształcie pryzmatów trapezowych, trzecia noga jest umieszczona w korpusie droida i może zostać przedłużona w razie potrzeby, aby zapewnić większą stabilność. Przywiązanie konstrukcji urządzenia jest odporna, obracająca się, plasteksowa lub transparisteel kopuła. Astromech jest uszczelniony, aby umożliwić funkcjonalność w próżni przestrzeni.",
+    "11": "T-70 X-wing Starfighter to myśliwiec krzyżowy o długości 12,48 metra i maksymalnej pojemności jednego pilota i dolnego droida astromecha, który mieści się w gnieździe i może być różnie skonfigurowany dla różnych modeli. W razie potrzeby droid może latać gwiezdnym myśliwcem bez pomocy pilota, a nawet może to zrobić zdalnie. Komputer do celowania statku, sterowanie lotem i inne niezbędne przyrządy pilotażowe znajdują się wewnątrz modułu pancernego kokpitu, pod którym wymienny komputer lotowy chłodzony cieczą dodatkowo wspomaga pilota w operacjach na statku. Panele dostępu umożliwiające dostęp do komputera i magazynowanie znajdują się wewnątrz „nosa” statku wraz z pomocniczym generatorem i obszarem magazyniowym zwykle wykorzystywanym do ukrywania sprzętu ratunkowego. Małe okno czujnika oznacza położenie głównego układu czujników okrętów na samym końcu nosekundy, znajdującej się za sygnalizatora awaryjnego. Za pilotem wbudowany system podtrzymywania życia pozwala użytkownikowi oddychać natlenioną atmosferą.",
+    "12": "Czule znany jako „wahacz” do pilotów Sojuszu Rebeliantów i Nowej Republiki, Y-wing gwiezdny myśliwiec jest rozmieszczony jako myśliwiec bombowca, przeznaczony do walki z jego drogą do celu, dostarczenia ładunku wysokich materiałów wybuchowych i walczyć z jego wyjście ponownie. Jego uzbrojenie obejmuje dwie armaty laserowe, dwie armaty jonowe i dwie wyrzutnie torped protonowych. Droid astromech, taki jak jednostka R2, może być podłączony do gniazda za kokpitem, aby działać jako drugi pilot i zarządzać różnymi systemami statku.",
+    "13": "Całkiem dobry droid do koordynowania ataków. Nie jest dobry w walce, tylko dobry w planowaniu.",
+    "2": "Zaprojektowane do konserwacji podracerów, droidy pit są niedrogimi, trwałymi droidami naprawowymi. Droidy pit stoją na wysokości 1,19 metra, ale mają możliwość złożenia w zwartą formę, gdy nie są używane. Tę funkcję można przełączać, stukając nosem.",
+    "3": "Model droidów 2-1B jest wysoce zaawansowany i inteligentny, a jego programowanie jest jeszcze bardziej zaawansowane przez niektórych najlepszych lekarzy w galaktyce w Rhinnal State Medical Academy, która integruje również procesory heurystyczne. Najbardziej przydatną cechą droidów 2-1B jest łatwość, dzięki której właściciele mogą aktualizować swoje programowanie i dodatki. Droid 2-1B może z łatwością stać się specjalistą w dziedzinie neurochirurgii, podiatrii, pediatrii, cybernetycznej wymiany kończyn i biologii obcych z wyjazdem do certyfikowanego centrum serwisowego.",
+    "4": "Zmaltretowany chromowany droid wojenny, IG-88 ma 1,96 metra wysokości. Jego stały cel, wraz z umiejętnością śledzenia celów za pomocą zaawansowanych czujników, które dzwonią mu w głowę i pozwalają mu zobaczyć we wszystkich kierunkach, przyniesie mu wielki sukces. Czujniki te obejmują wiele czerwonych fotoreceptorów, czujnik ciepła, a czujnik dźwięku IG-88 ma również vocoder u podstawy głowy. Jego tułów jest w stanie w pełni obracać się na polu bitwy, pozwalając mu wybić wrogów ze wszystkich stron. Jego twarda metalowa obudowa pozwala mu przetrwać większość ataków bez żadnych uszkodzeń i posiada kwasoodporne druty serwo.",
+    "5": "Do oryginalnej struktury Sphirna dodano kilka nowych funkcji, w tym dwa dodatkowe moduły zamontowane na porcie i prawej burcie jednostki, sześć kapsuł ewakuacyjnych w miejscu ładowni oraz czwarty napęd podświetlny zamontowany na szczycie trzech podstawowych, dając mu wystarczającą moc, aby samodzielnie przesunąć niepełnosprawnego Gwiezdny niszczyciel. 315 metrów długości z maksymalnym przyspieszeniem 900 kilometrów na godzinę. Wyposażony w hiper system napędowy.",
+    "6": "Przeznaczony do pomocy przy naprawach pokładowych, droid naprawczy drugiego stopnia G2 ma niski wzrost, stojąc 0,8 metra wysokości. Jest również przysiady, z szeroką, ciężką postawą, która zmusza go do zmuszania, gdy chodził. Cechy te, w połączeniu z długą, wieloprzegubową szyjką i szeroko rozstawionymi stopami rozkładającymi ciężar, zarabia mu pseudonim „droid gęsi”. Każda jednostka G2 ma odsłoniętą, srebrną i mosiądzową ramę szkieletową z odsłoniętymi połączeniami i okablowaniem, z kolorowym wykończeniem. Trzycyfrowe ciężkie manipulatory droida mogą uchwycić większość narzędzi naprawczych, podczas gdy rozłożone stopy pomagały w stabilizacji jego niskiego środka ciężkości i zapewnia dodatkową stabilność G2 w kontaktach z dużym, ciężkim sprzętem.",
+    "7": "Mierząc 150 metrów długości, posiada dwie podwójne i cztery pojedyncze wieże turbolaserowe i ma zdolność osiągania maksymalnej prędkości 950 km/h. Według Luke'a Skywalkera, niektóre statki CR90 z wyposażeniem bojowym mogą być wyposażone w sześć podwójnych turbolaserów. Zdolny do przewożenia całej eskorty dyplomatycznej, ma pojemność pasażerską w setkach. Chociaż statki nie są zbudowane jako nośniki, do pierścieni dokujących można przymocować trzy przechwytujące RZ-1 A-wing, co pozwala na małą eskortę. Służą one jako kręgosłup wczesnej rebelii i Sojuszu. Chociaż nie jest szczególnie uzbrojony, CR90 posiada wystarczającą siłę ognia do przodu, aby łatwo zniszczyć krążownik klasy GoZanty-klasy.",
+    "8": "Rower Speeder 74-Z jest w stanie osiągnąć prędkość do pięciuset kilometrów na godzinę i ma sufit lotu wynoszący dwadzieścia pięć metrów. 74-Zs to wojskowy wariant cywilnego 74-Y. Są one sterowane za pomocą kierownicy umieszczonej w kierunku przedniej części pojazdu, a pedały nożne zawiesione pod spodem regulują prędkość i wysokość. Pojazdy wysoce zwrotne wyposażone są w czujniki i urządzenia komunikacyjne znajdujące się między kierownicą, w tym komlink i urządzenie blokujące komlink. Prędak jest wyposażony w czujniki podążające za terenem, które łączą się z HUD w kasku kierowcy. Są uzbrojeni w obrotowe działo blasterowe do walki.",
+    "9": "O długości 5,47 metra, ETA-2 jest wysoce zwrotnym myśliwcem bojowym i jest szybszy niż poprzednik Ethersprytu, z silnikami dwujonowymi zapewniającymi maksymalne przyspieszenie 5200G i maksymalną prędkość 1500 km/h. Eta-2 posiada skrzydła z górnymi i dolnymi panelami chłodnicy, foliami S, które są otwierane w celu zrzucania nadmiaru ciepła z silników statku. Skrzydła chłodnicy są otwierane przede wszystkim podczas intensywnej walki. Dla obrony okręt zawierał dwie armaty laserowe i dwie armaty jonowe. W przeciwieństwie do armatek laserowych, armaty jonowe statku wystrzeliły wybuchy plazmy, które powodują tymczasowe zakłócenia elektryczne w ich celu po uderzeniu."
+  },
+  "title": {
+    "1": "3P0 Negocjator",
+    "10": "Droid z serii R3",
+    "11": "T-70 X-Wing",
+    "12": "Wojownik Galaktyczny Y-Wing",
+    "13": "Super Tactical Droid",
+    "17": "Liczby pierwsze są tak fajne",
+    "18": "Zgadnij ten numer!",
+    "2": "Droid serii Dum-",
+    "3": "Droid 2-1B",
+    "4": "Droid IG-88B",
+    "5": "Sphirna Korweta",
+    "6": "Droid naprawczy G2",
+    "7": "CR90 Korweta",
+    "8": "74-Z Super Bike",
+    "9": "ET-2 Interceptor"
+  }
+}

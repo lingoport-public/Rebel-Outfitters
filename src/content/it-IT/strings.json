@@ -1,8 +1,8 @@
 {
     "title": {
-    "1": "3P0 Ambasciatore",
+    "1": "Negoziatore P30",
     "2": "Droide serie DUM",
-    "3": "2-1B Droide Dottore",
+    "3": "Droide 2-1B",
     "4": "IG-88B Droide",
     "5": "Sphyrna Corvette",
     "6": "Droide di riparazione G2",
@@ -17,7 +17,7 @@
     "18": "Indovina quel numero!"
     },
     "desc": {
-    "1": "Questo droide è dotato di un SyntheTech AA-1 VerboBrain che li rende in grado di memorizzare enormi quantità di informazioni, lo spazio di memoria aggiuntivo è spesso usato per mantenere i moduli di comunicazione nella memoria attiva in modo che lunghi ritardi possano essere evitati durante la ricerca di informazioni linguistiche sulla traduzione intermedia. Un modulo di comunicazione TranLang III permette loro di essere fluenti in oltre sei milioni di forme di comunicazione. Hanno anche le competenze necessarie per analizzare rapidamente nuove lingue non registrate e tradurle in quelle più conosciute.",
+    "1": "Questo droide è dotato di un SyntheTech AA-1 VerboBrain che li rende in grado di memorizzare enormi quantità di informazioni, lo spazio di memoria aggiuntivo viene spesso utilizzato per mantenere i moduli di comunicazione nella memoria attiva in modo da evitare lunghi ritardi durante la ricerca di informazioni linguistiche a metà traduzione. Un modulo di comunicazione TranLang III consente loro di essere fluenti in oltre sei milioni di forme di comunicazione. Hanno anche le competenze necessarie per analizzare rapidamente nuove lingue non registrate e tradurle in lingue più conosciute.",
     "2": "Progettati per mantenere i podracers, i droidi dei pit sono droidi di riparazione a prezzi accessibili e durevoli. I droidi del pozzo si trovano ad un'altezza di 1,19 metri, ma hanno la capacità di piegarsi in una forma compatta quando non in uso. Questa funzione può essere disattiva toccando il naso.",
     "3": "Il modello 2-1B droide è altamente avanzato e intelligente con la sua programmazione ulteriormente avanzata da alcuni dei migliori medici della galassia presso la Rhinnal State Medical Academy, che integrano anche processori euristici. La caratteristica più utile dei droidi 2-1B è la facilità con cui i proprietari possono aggiornare la loro programmazione e appendici. Un droide 2-1B può facilmente diventare uno specialista in neurochirurgia, podologia, pediatria, sostituzione cibernetica degli arti e biologia aliena con un viaggio in un centro di assistenza certificato.",
     "4": "Un droide da guerra cromata malconcio, IG-88 si trova 1,96 metri di altezza. Il suo obiettivo costante, insieme alla sua capacità di tracciare bersagli con sensori avanzati che suonano la testa e gli permettono di vedere in tutte le direzioni, gli guadagna un grande successo. Questi sensori includono più fotorecettori rossi, un sensore di calore e un sensore sonoro IG-88 ha anche un vocoder alla base della sua testa. Il suo busto è in grado di ruotare completamente sul campo di battaglia, permettendogli di far esplodere i nemici da tutti i lati. Il suo robusto corpo in metallo gli permette di sopravvivere alla maggior parte degli attacchi senza subire alcun danno e dispone di cavi servo resistenti agli acidi.",
@@ -46,7 +46,7 @@
     },
     "Home": {
     "welcomeMessage": "Benvenuti a Rebel Outfitters!",
-    "welcomeSubtitle": "Forniamo tutto il necessario per affrontare l'Impero (e schiacciarli).",
+    "welcomeSubtitle": "Forniamo tutto ciò di cui hai bisogno per affrontare l'Impero (e sconfiggerlo).",
     "symbolAlt": "Simbolo valuta credito imperiale"
     },
     "Browse": {
@@ -121,10 +121,10 @@
     "localeES": "Spagnolo - Spagna",
     "localeDE": "Tedesco - Germania",
     "localeJA": "Giapponese - Giappone",
-    "localeRU": "Russo - Russia",
-    "localeIT": "Italiano - Italia",
+    "localeRU": "russo - Russia",
+    "localeIT": "italiano - Italia",
     "localeKO": "Coreano - Corea",
-    "localePT": "Portoghese - Portogallo",
+    "localePT": "portoghese - Portogallo",
     "localeNO": "Norvegese - Norvegia",
     "localeYO": "Yoda",
     "localeSI": "Sith",

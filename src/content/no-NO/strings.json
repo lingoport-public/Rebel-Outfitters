@@ -1,8 +1,8 @@
 {
     "title": {
-    "1": "3P0-ambassadør",
+    "1": "3P0 Forhandler",
     "2": "Droid i DUM-serien",
-    "3": "2-1B doktor Droid",
+    "3": "2-1B Droid",
     "4": "IG-88B Droid",
     "5": "Sphyrna Corvette",
     "6": "G2 Reparasjon Droid",
@@ -46,7 +46,7 @@
     },
     "Home": {
     "welcomeMessage": "Velkommen til Rebel Outfitters!",
-    "welcomeSubtitle": "Vi tilbyr alt du trenger for å ta på Empire (og knuse dem).",
+    "welcomeSubtitle": "Vi tilbyr alt du trenger for å ta på Empire (og beseire dem).",
     "symbolAlt": "Imperial kreditt valuta symbol"
     },
     "Browse": {

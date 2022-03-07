@@ -1,13 +1,13 @@
 {
     "title": {
-    "1": "3P0",
+    "1": "3P0-Unterhändler",
     "2": "Dum-Serie Droid",
-    "3": "2-1B Doktor Droid",
+    "3": "2-1B-Droide",
     "4": "IG-88B Droid",
     "5": "Sphyrna Korvette",
     "6": "G2 Reparatur Droid",
     "7": "CR90 Korvette",
-    "8": "74-Z Super Bike",
+    "8": "74-Z Superbike",
     "9": "ETA-2-Abfangjäger",
     "10": "Droid der R3-Serie",
     "11": "T-70 X-Wing",
@@ -46,7 +46,7 @@
     },
     "Home": {
     "welcomeMessage": "Willkommen bei Rebel Outfitters!",
-    "welcomeSubtitle": "Wir bieten alles, was du brauchst, um das Imperium zu übernehmen (und zerquetschen).",
+    "welcomeSubtitle": "Wir bieten alles, was Sie brauchen, um es mit dem Imperium aufzunehmen (und es zu besiegen).",
     "symbolAlt": "Währungssymbol für britische Kredit"
     },
     "Browse": {
@@ -122,7 +122,7 @@
     "localeDE": "Deutsch - Deutschland",
     "localeJA": "Japanisch - Japan",
     "localeRU": "Russisch - Russland",
-    "localeIT": "Italienisch - Italien",
+    "localeIT": "Italienisch — Italien",
     "localeKO": "Koreanisch - Korea",
     "localePT": "Portugiesisch — Portugal",
     "localeNO": "Norwegisch - Norwegen",

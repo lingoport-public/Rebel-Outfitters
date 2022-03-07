@@ -1,13 +1,13 @@
 {
     "title": {
-    "1": "Embaixador 3P0",
+    "1": "Negociador P30",
     "2": "Droid série DUM-",
-    "3": "2-1B Doutor Droid",
+    "3": "2-1B Droid",
     "4": "Droid IG-88B",
     "5": "Corveta Sphirna",
     "6": "Droid de Reparação G2",
     "7": "CR90 Corveta",
-    "8": "74-Z Super Bike",
+    "8": "Super bicicleta 74-Z",
     "9": "Interceptor ETA-2",
     "10": "Droid Série R3",
     "11": "T-70 X-Wing",
@@ -46,7 +46,7 @@
     },
     "Home": {
     "welcomeMessage": "Bem-vindo ao Rebel Outfitters!",
-    "welcomeSubtitle": "Nós fornecemos tudo o que você precisa para enfrentar o Império (e esmagá-los).",
+    "welcomeSubtitle": "Nós fornecemos tudo o que você precisa para enfrentar o Império (e derrotá-lo).",
     "symbolAlt": "Símbolo de moeda de crédito"
     },
     "Browse": {
@@ -122,9 +122,9 @@
     "localeDE": "Alemão - Alemanha",
     "localeJA": "Japonês - Japão",
     "localeRU": "Russo - Rússia",
-    "localeIT": "Italiano - Itália",
+    "localeIT": "italiano - Itália",
     "localeKO": "Coreano - Coreia",
-    "localePT": "Português - Portugal",
+    "localePT": "português - Portugal",
     "localeNO": "Norueguês - Noruega",
     "localeYO": "Yoda",
     "localeSI": "Sith",

@@ -1,13 +1,13 @@
 {
     "title": {
-    "1": "3P0 大使",
+    "1": "3P0 谈判代表",
     "2": "DUM 系列机器人",
-    "3": "2-1B 医生 Droid",
+    "3": "2-1B Droid",
     "4": "机器人",
     "5": "斯菲尔那·克尔维特",
     "6": "G2 维修机器人",
     "7": "克尔维特",
-    "8": "74-Z 超级自行车",
+    "8": "74-Z 超级摩托车",
     "9": "ETA-2 拦截器",
     "10": "R3 系列机器人",
     "11": "十翼",
@@ -45,8 +45,8 @@
     "navLinkVehicles": "车辆"
     },
     "Home": {
-    "welcomeMessage": "欢迎来到反叛装备商！",
-    "welcomeSubtitle": "我们提供你需要采取的帝国（和粉碎他们）的一切。",
+    "welcomeMessage": "欢迎来到 Rebel Outfitters！",
+    "welcomeSubtitle": "我们提供你对抗帝国（并击败他们）所需的一切。",
     "symbolAlt": "帝国信用货币符号"
     },
     "Browse": {
@@ -122,9 +122,9 @@
     "localeDE": "德国-德国",
     "localeJA": "日语-日本",
     "localeRU": "俄罗斯-俄罗斯",
-    "localeIT": "意大利-意大利",
+    "localeIT": "意大利语-意大利",
     "localeKO": "韩国",
-    "localePT": "葡萄牙-葡萄牙",
+    "localePT": "葡萄牙语-葡萄牙",
     "localeNO": "挪威语-挪威",
     "localeYO": "尤达",
     "localeSI": "西斯",
