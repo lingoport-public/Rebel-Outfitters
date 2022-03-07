@@ -1,0 +1,144 @@
+{
+  "Bottombar": {
+    "menuAlt": "\uDB40\uDC3CSeitenleistenmenü öffnen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Browse": {
+    "droidTitle": "\uDB40\uDC3CAlle Droiden\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "vehicleTitle": "\uDB40\uDC3CAlle Fahrzeuge\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Cart": {
+    "cartTitle": "\uDB40\uDC3CWarenkorb\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "checkoutLabel": "\uDB40\uDC3CKASSE\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "closeAlt": "\uDB40\uDC3CWarenkorb schließen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "deleteAlt": "\uDB40\uDC3CArtikel aus Einkaufswagen löschen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "noItemMsg": "\uDB40\uDC3CKeine Artikel im Warenkorb.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "totalTitle": "\uDB40\uDC3CGesamt: \uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Checkout": {
+    "accountHolder": "\uDB40\uDC3C1234567-9876-00\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "accountLabel": "\uDB40\uDC3CImperial Credit Nummer\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "cartTitle": "\uDB40\uDC3CWarenkorb\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "checkoutTitle": "\uDB40\uDC3CKasse\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "coordinatesHolder": "\uDB40\uDC3C0,0,0\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "coordinatesLabel": "\uDB40\uDC3CKoordinaten\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "deleteAlt": "\uDB40\uDC3CArtikel aus dem Warenkorb entfernen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "expDateLabel": "\uDB40\uDC3CAblaufdatum\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "firstNameLabel": "\uDB40\uDC3CVorname\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "lastNameLabel": "\uDB40\uDC3CNachname\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "methodLabel": "\uDB40\uDC3CVersandart\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "noItemMessage": "\uDB40\uDC3CFügen Sie Artikel zum Warenkorb zur Kasse hinzu.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "orderLabel": "\uDB40\uDC3CBESTELLUNG AUFGEBEN\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "payNameHolder": "\uDB40\uDC3CErster Letzter\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "payNameLabel": "\uDB40\uDC3CName auf Karte\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "paySectionLabel": "\uDB40\uDC3CZahlung\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "sectorLabel": "\uDB40\uDC3CSektor/Quadrant\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "securityHolder": "\uDB40\uDC3C123456\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "securityLabel": "\uDB40\uDC3CSicherheitscode\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "shipLightspeed": "\uDB40\uDC3CLichtgeschwindigkeit\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "shipOvernight": "\uDB40\uDC3CÜbernachten\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "shipSectionLabel": "\uDB40\uDC3CVersand Info\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "shipStandard": "\uDB40\uDC3CStandard\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC37\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "successMessage": "\uDB40\uDC3CBestellung erfolgreich aufgegeben!\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "termsLink": "\uDB40\uDC3C(Ansicht)\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "termsStatement": "\uDB40\uDC3CIch habe die Allgemeinen Geschäftsbedingungen gelesen und stimme diesen zu\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "totalLabel": "\uDB40\uDC3CGesamt: \uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC38\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Error404": {
+    "errorMessage": "\uDB40\uDC3C404 Fehler: Seite nicht gefunden.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Hamburger": {
+    "contactLabel": "\uDB40\uDC3CKontaktieren Sie uns\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC33\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "dashLabel": "\uDB40\uDC3CLingoport Dashboard anzeigen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC33\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "githubLabel": "\uDB40\uDC3CQuelle anzeigen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC33\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "githubLogoAlt": "\uDB40\uDC3CGitHub-Logo\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "learnLabel": "\uDB40\uDC3CErfahren Sie mehr\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC33\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "lingoLogoAlt": "\uDB40\uDC3CLingoport Logo\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeDE": "\uDB40\uDC3CDeutsch - Deutschland\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeEN": "\uDB40\uDC3CEnglisch - Vereinigte Staaten\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeEO": "\uDB40\uDC3CEsperanto\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeES": "\uDB40\uDC3CSpanisch - Spanien\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeFR": "\uDB40\uDC3CFranzösisch - Frankreich\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeIA": "\uDB40\uDC3CLinguistischer Prüfer\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeIT": "\uDB40\uDC3CItalienisch — Italien\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeJA": "\uDB40\uDC3CJapanisch - Japan\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeKO": "\uDB40\uDC3CKoreanisch - Korea\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeLabel": "\uDB40\uDC3CGebietsschema: \uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeNO": "\uDB40\uDC3CNorwegisch - Norwegen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localePT": "\uDB40\uDC3CPortugiesisch — Portugal\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeRU": "\uDB40\uDC3CRussisch - Russland\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeSI": "\uDB40\uDC3CSith\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeYO": "\uDB40\uDC3CYoda\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC32\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "localeZH": "\uDB40\uDC3CChinesisch - China\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "versionBad": "\uDB40\uDC3CNicht I18N-konform\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "versionGood": "\uDB40\uDC3CI18n-konform\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "versionIQA": "\uDB40\uDC3CInContext\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "versionLabel": "\uDB40\uDC3CVersion: \uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC31\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Home": {
+    "symbolAlt": "\uDB40\uDC3CWährungssymbol für britische Kredit\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "welcomeMessage": "\uDB40\uDC3CWillkommen bei Rebel Outfitters!\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "welcomeSubtitle": "\uDB40\uDC3CWir bieten alles, was Sie brauchen, um es mit dem Imperium aufzunehmen (und es zu besiegen).\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Navbar": {
+    "arrowAlt": "\uDB40\uDC3CDropdown-Pfeil\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "cartAlt": "\uDB40\uDC3CWarenkorb anzeigen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "greetingText": "\uDB40\uDC3CHallo Han\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "historyLink": "\uDB40\uDC3CBESTELLVERLAUF\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "logoAlt": "\uDB40\uDC3CRebel Outfitters Logo\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "navLinkDroids": "\uDB40\uDC3CDROIDEN\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "navLinkHome": "\uDB40\uDC3CZUHAUSE\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "navLinkVehicles": "\uDB40\uDC3CFAHRZEUGE\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "searchButtonLabel": "\uDB40\uDC3CProdukte suchen\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "searchIconAlt": "\uDB40\uDC3CSuchsymbol\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "searchPlaceholder": "\uDB40\uDC3CWomit suchen Sie?\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "OrderHistory": {
+    "dateHeading": "\uDB40\uDC3CDatum\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "historyTitle": "\uDB40\uDC3CBestellhistorie\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "numberHeading": "\uDB40\uDC3CBestellnummer\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "statusHeading": "\uDB40\uDC3CStatus\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "totalHeading": "\uDB40\uDC3CGesamt\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC30\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Order": {
+    "statusDelivered": "\uDB40\uDC3CZugestellt\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC33\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "statusProcessing": "\uDB40\uDC3CVerarbeitung\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC33\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "statusShipped": "\uDB40\uDC3CVersendet\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC33\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "ProductShow": {
+    "addToCartLabel": "\uDB40\uDC3CIN DEN WARENKORB\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "qtyLabel": "\uDB40\uDC3CMenge: \uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC39\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "Special": "\uDB40\uDC3CBesondere\uDB40\uDC40\uDB40\uDC33\uDB40\uDC36\uDB40\uDC33\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+  "desc": {
+    "1": "\uDB40\uDC3CDieser Droide ist mit einem SyntheTech AA-1 VerboBrain ausgestattet, der ihn in der Lage macht, enorme Mengen an Informationen zu speichern. Der zusätzliche Speicherplatz wird häufig verwendet, um Kommunikationsmodule im aktiven Speicher zu halten, so dass lange Verzögerungen bei der Suche nach sprachlichen Informationen zur mittleren Übersetzung vermieden werden können. Ein TranLang III-Kommunikationsmodul ermöglicht es ihnen, über sechs Millionen Formen der Kommunikation fließend zu sprechen. Sie verfügen auch über die erforderlichen Fähigkeiten, um neue nicht registrierte Sprachen schnell zu analysieren und in bekanntere Sprachen zu übersetzen.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "10": "\uDB40\uDC3CDer Astromech-Droid der R3-Serie verfügt über viel von der gleichen Hardware wie sein Vorgänger, die R2-Einheit, fehlt nur der erweiterbare Videosensor des früheren Droiden. Das Chassis des R3 ist größtenteils zylindrisch und erscheint als aufrechtes Rohr mit einem kurzen, abgeschnittenem Kegel an der Basis. Halten Sie den Droiden aufrecht sind zwei schmale Beine, von denen jeder in einem Lauffuss, der wie trapezförmige Prismen geformt ist, enden, ein drittes Bein ist im Droidenkörper untergebracht und könnte bei Bedarf verlängert werden, um größere Stabilität zu leisten. Das Design des Gerätes ist eine robuste, rotierende, plastex oder transparisteel Kuppel. Der Astromech ist versiegelt, um Funktionalität im Vakuum des Raumes zu ermöglichen.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "11": "\uDB40\uDC3CDer T-70 X-Wing Starfighter ist ein kreuzförmiger Sternenjäger mit einer Länge von 12,48 Metern und einer maximalen Kapazität von einem einzelnen Piloten und unten belasteten Astromechdroiden, der in eine Steckdose passt und variabel für verschiedene Modelle konfiguriert werden kann. Bei Bedarf kann der Droid den Sternenjäger ohne Hilfe eines Piloten fliegen und kann dies sogar aus der Ferne tun. Der Zielcomputer des Schiffes, Flugkontrollen und andere wichtige Steuerinstrumente befinden sich in einem gepanzerten Cockpitmodul, unter dem ein abnehmbarer flüssigkeitsgekühlter Flugcomputer den Piloten bei schiffsbasierten Operationen weiter unterstützt. In der „Nase“ des Schiffes befinden sich Zugangsfelder für den Computerzugriff und die Lagerung sowie ein Hilfsgenerator und ein Lagerbereich, der typischerweise zum Verstauen von Überlebensgeräten verwendet wird. Ein kleines Sensorfenster markiert die Position des primären Sensorarrays der Schiffe an der Spitze der Nase, die sich hinter einem Notfeuer befindet. Hinter dem Piloten ermöglicht ein integriertes Lebenserhaltungssystem dem Insassen das Atmen einer sauerstoffhaltigen Atmosphäre.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "12": "\uDB40\uDC3CDer Y-Flügel-Starfighter ist liebevoll als „Querlenker“ für die Rebellen-Allianz und die New Republic Piloten bekannt und wird als Jagdbomber eingesetzt, um seinen Weg zu seinem Ziel zu kämpfen, seine Nutzlast von Sprengstoffen zu liefern und seinen Weg wieder zu kämpfen. Seine Waffen umfassen zwei Laserkanonen, zwei Ionenkanonen und zwei Protonen-Torpedowerfer. Ein Astromech-Droid, wie eine R2-Einheit, kann in eine Steckdose hinter dem Cockpit gesteckt werden, um als Co-Pilot zu fungieren und die verschiedenen Systeme des Schiffes zu verwalten.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "13": "\uDB40\uDC3CEin ziemlich guter Droid für die Koordinierung von Angriffen. Nicht gut im Kampf, nur gut im Planen.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "2": "\uDB40\uDC3CEntwickelt für die Wartung von Podracern, sind Grubendroiden erschwingliche, dauerhafte Reparaturdroiden. Grubendroiden stehen in einer Höhe von 1,19 Metern, haben aber die Fähigkeit, in eine kompakte Form zu falten, wenn sie nicht in Gebrauch sind. Diese Funktion kann durch Tippen auf die Nase um- oder ausgeschalteten.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "3": "\uDB40\uDC3CDas Modell 2-1B Droiden ist hoch fortgeschritten und intelligent. Die Programmierung wird von einigen der Topärzte der Galaxie der Staatlichen Medizinischen Akademie Rhinnal weiterentwickelt, die auch heuristische Prozessoren integrieren. Das nützlichste Merkmal der 2-1B-Droiden ist die Leichtigkeit, mit der Besitzer ihre Programmierung und Anhängsel aktualisieren können. Ein 2-1B-Droid kann leicht ein Spezialist für Neurochirurgie, Podologie, Pädiatrie, kybernetischen Gliedmaßenersatz und außerirdische Biologie mit einer Reise in ein zertifiziertes Service-Center werden.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "4": "\uDB40\uDC3CEine zerschlagene Chrom Kriegdroid, IG-88 steht 1,96 Meter in der Höhe. Sein stetiges Ziel, zusammen mit seiner Fähigkeit, Ziele mit fortschrittlichen Sensoren zu verfolgen, die seinen Kopf klingeln und ihm erlauben, in alle Richtungen zu sehen, bringt ihm großen Erfolg. Zu diesen Sensoren gehören mehrere rote Photorezeptoren, ein Wärmesensor und ein Schallsensor IG-88 hat auch einen Vocoder an der Basis seines Kopfes. Sein Torso ist in der Lage, sich vollständig auf dem Schlachtfeld zu drehen, so dass er Feinde auf allen Seiten sprengen kann. Sein robuster Metallkörper ermöglicht es ihm, die meisten Angriffe zu überleben, ohne Schaden zu nehmen und verfügt über säurefeste Servodrähte.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "5": "\uDB40\uDC3CMehrere neue Funktionen wurden der ursprünglichen Sphyrna Struktur hinzugefügt, darunter zwei zusätzliche Module, die am Hafen und Steuerbord des Fahrzeugs montiert sind, sechs Fluchtkapseln anstelle des Frachtraums und ein vierter sublight Antrieb auf der Oberseite der primären drei, so dass es genug Macht, um im Alleingang eine Behinderte bewegen Star Destroyer. 315 Meter lang mit einer maximalen Beschleunigung von 900 Kilometern pro Stunde. Ausgestattet mit einem Hyper-Antrieb.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "6": "\uDB40\uDC3CDer G2-Reparaturdroid zweiten Grades dient zur Unterstützung bei Reparaturen an Bord und ist mit einer Höhe von 0,8 Metern in kurzer Statur ausgestattet. Es ist auch hocken, mit einer breiten, unten schweren Haltung, die es zwingt, zu watscheln, wenn es ging. Diese Eigenschaften, kombiniert mit ihrem langen, mehrgliedrigen Hals und weit abstandenen, gewichtsverteilenden Füßen, verdienen ihm den Spitznamen „Gänsedroid“. Jede G2-Einheit verfügt über einen abgestreiften, silber- und messingfarbenen Skelettrahmen mit freiliegenden Gelenken und Verkabelung, mit farbigem Rand. Die dreistelligen schweren Manipulatoren des Droiden können die meisten Reparaturwerkzeuge erfassen, während gespreizte Füße dazu beitragen, seinen niedrigen Schwerpunkt zu stabilisieren und dem G2 zusätzliche Stabilität beim Umgang mit großen, schweren Geräten zu geben.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "7": "\uDB40\uDC3CMit einer Länge von 150 Metern verfügt es über zwei zwei und vier einzelne Turbolasertürme und hat die Fähigkeit, eine maximale Geschwindigkeit von 950 km/h zu erreichen. Laut Luke Skywalker können einige kombattausgerüstete CR90-Schiffe mit sechs Doppelturbolasern ausgestattet werden. In der Lage, eine ganze diplomatische Eskorte zu tragen, hat es eine Passagierkapazität in den Hunderten. Obwohl die Schiffe nicht als Träger gebaut werden, können drei RZ-1 A-Flügelabfangjäger an den Andockringen befestigt werden, so dass eine kleine Begleitung möglich ist. Sie dienen als Rückgrat der frühen Rebellion und Allianz. Obwohl sie nicht besonders schwer bewaffnet sind, besitzen CR90s genug Feuerkraft, um einen Gozanti-Klasse Kreuzer ganz leicht zu zerstören.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "8": "\uDB40\uDC3CDas 74-Z Speeder Bike ist in der Lage Geschwindigkeiten von bis zu fünfhundert Kilometern pro Stunde zu erreichen, und hat eine Flugdecke von fünfundzwanzig Metern. 74-Zs sind die militärische Variante des zivilen 74-Y. Sie werden von Lenkern gesteuert, die zur Vorderseite des Fahrzeugs angeordnet sind, und darunter geschlitzte Fußpedale passen Geschwindigkeit und Höhe an. Die hoch wendigen Fahrzeuge sind mit Sensor- und Kommunikationsgeräten ausgestattet, die sich zwischen dem Lenker befinden, darunter ein Comlink und ein Comlink-Jamming-Gerät. Der Speeder ist mit Terrain-Folgesensoren ausgestattet, die mit dem HUD im Fahrerhelm verbunden sind. Sie sind mit einer nach vorne drehenden Blasterkanone für den Kampf bewaffnet.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "9": "\uDB40\uDC3CMit einer Länge von 5,47 Metern ist der ETA-2 ein äußerst manövrierbarer, kämpfungsorientierter Starfighter und schneller als sein Aethersprite Vorgänger, mit Twin-Ionen-Motoren, die eine maximale Beschleunigung von 5.200 G und eine maximale Geschwindigkeit von 1.500 km/h bieten. Die Eta-2 verfügt über Flügel mit oberen und unteren Kühlerplatten, S-Folien, die geöffnet werden, um überschüssige Wärme von den Motoren des Schiffes abzugeben. Die Kühlerflügel werden vor allem im intensiven Kampf geöffnet. Zur Verteidigung verfügte das Schiff über zwei Laserkanonen und zwei Ionenkanonen. Im Gegensatz zu Laserkanonen feuern die Ionenkanonen des Schiffes Plasmaplatzen ab, die bei einem Aufprall vorübergehende elektrische Störungen auf ihr Ziel verursachen.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  },
+  "title": {
+    "1": "\uDB40\uDC3C3P0-Unterhändler\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "10": "\uDB40\uDC3CDroid der R3-Serie\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "11": "\uDB40\uDC3CT-70 X-Wing\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "12": "\uDB40\uDC3CY-Wing Galaktischer Kämpfer\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "13": "\uDB40\uDC3CSuper Taktischer Droid\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "17": "\uDB40\uDC3CPrimzahlen sind so cool\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "18": "\uDB40\uDC3CRaten Sie diese Zahl!!\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "2": "\uDB40\uDC3CDum-Serie Droid\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "3": "\uDB40\uDC3C2-1B-Droide\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "4": "\uDB40\uDC3CIG-88B Droid\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "5": "\uDB40\uDC3CSphyrna Korvette\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "6": "\uDB40\uDC3CG2 Reparatur Droid\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "7": "\uDB40\uDC3CCR90 Korvette\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "8": "\uDB40\uDC3C74-Z Superbike\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E",
+    "9": "\uDB40\uDC3CETA-2-Abfangjäger\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC36\uDB40\uDC3E"
+  }
+}
