@@ -1,8 +1,8 @@
 {
     "title": {
-    "1": "Négociateur P30",
+    "1": "Négociateur 3P0",
     "2": "Dum-Séries Droïde",
-    "3": "Droïde 2-1B",
+    "3": "Droïde neurochirurgien 2-1B",
     "4": "IG-88B Droïde",
     "5": "Sphyrna Badass",
     "6": "Droïde de réparation G2",
@@ -46,7 +46,7 @@
     },
     "Home": {
     "welcomeMessage": "Bienvenue chez Rebel Outfitters !",
-    "welcomeSubtitle": "Nous vous fournissons tout ce dont vous avez besoin pour affronter l'Empire (et le vaincre).",
+    "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour affronter l'Empire (et le vaincre).",
     "symbolAlt": "Symbole de devise du Crédit"
     },
     "Browse": {
