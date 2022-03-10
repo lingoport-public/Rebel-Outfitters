@@ -77,7 +77,7 @@
   "Home": {
     "symbolAlt": "\uDB40\uDC3CSymbole de devise du Crédit\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "welcomeMessage": "\uDB40\uDC3CBienvenue chez Rebel Outfitters !\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
-    "welcomeSubtitle": "\uDB40\uDC3CNous vous fournissons tout ce dont vous avez besoin pour affronter l'Empire (et le vaincre).\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E"
+    "welcomeSubtitle": "\uDB40\uDC3CNous fournissons tout ce dont vous avez besoin pour affronter l'Empire (et le vaincre).\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC36\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E"
   },
   "Navbar": {
     "arrowAlt": "\uDB40\uDC3CFlèche déroulante\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC35\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
@@ -125,7 +125,7 @@
     "9": "\uDB40\uDC3CMesurant 5,47 mètres de long, l'ETA-2 est un Starfighter très maniable orienté combat et est plus rapide que son prédécesseur Aethersprite, avec des moteurs à double ion offrant une accélération maximale de 5 200 g et une vitesse maximale de 1 500 km/h. L'Eta-2 comporte des ailes avec des panneaux de radiateur supérieur et inférieur, des feuilles en S, qui s'ouvrent pour évacuer l'excès de chaleur des moteurs du navire. Les ailes du radiateur sont principalement ouvertes pendant les combats intenses. Pour la défense, le navire a présenté deux canons laser et deux canons ioniques. Contrairement aux canons laser, les canons ioniques du navire tirent des éclats de plasma qui provoquent des perturbations électriques temporaires à leur cible lors de l'impact.\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC34\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E"
   },
   "title": {
-    "1": "\uDB40\uDC3CNégociateur P30\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
+    "1": "\uDB40\uDC3CNégociateur 3P0\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "10": "\uDB40\uDC3CDroïde modèle R3\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "11": "\uDB40\uDC3CT-70 X-Wing\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "12": "\uDB40\uDC3CCombattant galactique Y-Wing\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
@@ -133,7 +133,7 @@
     "17": "\uDB40\uDC3CLes nombres premiers sont si cool\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "18": "\uDB40\uDC3CDevinez ce numéro !\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC33\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "2": "\uDB40\uDC3CDum-Séries Droïde\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC33\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
-    "3": "\uDB40\uDC3CDroïde 2-1B\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
+    "3": "\uDB40\uDC3CDroïde neurochirurgien 2-1B\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC34\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "4": "\uDB40\uDC3CIG-88B Droïde\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC35\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "5": "\uDB40\uDC3CSphyrna Badass\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
     "6": "\uDB40\uDC3CDroïde de réparation G2\uDB40\uDC40\uDB40\uDC33\uDB40\uDC35\uDB40\uDC32\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC31\uDB40\uDC39\uDB40\uDC37\uDB40\uDC3E",
