@@ -83,7 +83,7 @@
     "noItemMessage": "チェックアウトする商品をカートに追加します。"
     },
     "ProductShow": {
-    "qtyLabel": "数量: ",
+    "qtyLabel":"数量数量: ",
     "addToCartLabel": "カートに追加"
     },
     "Cart": {
