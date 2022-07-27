@@ -1,6 +1,6 @@
 {
     "title": {
-    "1":"3PO",
+    "1":"3PO 这款",
     "2": "DUM 系列机器人",
     "3": "2-1B 脑外科医生 Droid",
     "4": "机器人",
@@ -83,7 +83,7 @@
     "noItemMessage": "将商品添加到购物车进行结账。"
     },
     "ProductShow": {
-    "qtyLabel": "数量： ",
+    "qtyLabel":"数量： ",
     "addToCartLabel": "添加到购物车"
     },
     "Cart": {
