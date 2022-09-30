@@ -1,10 +1,10 @@
 {
     "title": {
-    "1":"C3P0 - Espanol",
-    "2":"DUM-Droide de la serie",
+    "1": "C3P0 - Espanol",
+    "2": "DUM-Droide de la serie",
     "3": "Droide cirujano cerebral 2-1B",
     "4": "IG-88B Droid",
-    "5": "Esfirna Corbeta",
+    "5": "¡Corbeta Sphyrna!",
     "6": "Droid Mecánico G2",
     "7": "CR90 Corbeta",
     "8": "Superbicycletta 74-Z",
@@ -12,9 +12,7 @@
     "10": "Droid serie R3",
     "11": "T-70 X-Wing",
     "12": "Luchador galáctico de ala Y",
-    "13": "Droide súper táctico",
-    "17": "Los números primos son tan geniales",
-    "18": "¡Adivina ese número!"
+    "13": "Droide súper táctico"
     },
     "desc": {
     "1": "Este droide está equipado con un SyntheTech AA-1 VerboBrain haciéndolos capaces de almacenar enormes cantidades de información, el espacio de memoria adicional se utiliza a menudo para mantener los módulos de comunicación en la memoria activa para evitar largos retrasos mientras se busca información lingüística en la mitad de la traducción. Un módulo de comunicaciones TranLang III les permite tener fluidez en más de seis millones de formas de comunicación. También tienen las habilidades necesarias para analizar rápidamente nuevos idiomas no registrados y traducirlos a otros más conocidos.",
