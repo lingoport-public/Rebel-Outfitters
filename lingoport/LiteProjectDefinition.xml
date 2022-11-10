@@ -40,7 +40,7 @@
         <end-ignore>GLOBALYZER_END_IGNORE</end-ignore>
       </comments>
       <scan-items>
-        <item>WorldWindExplorer/root</item>
+        <item></item>
       </scan-items>
     </scan>
   </scans>
