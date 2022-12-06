@@ -4,7 +4,7 @@
   <login>
     <username></username>
     <password></password>
-    <server>https://www.globalyzer.com/gzserver</server>
+    <server>https://globalyzer.lingoport.net/gzserver</server>
     <use-local-rulesets>false</use-local-rulesets>
     <optional>
       <proxy-user></proxy-user>
@@ -25,8 +25,8 @@
   <scans>
     <scan>
       <scan-name>JS RS</scan-name>
-      <ruleset-name>JS Rule Set</ruleset-name>
-      <ruleset-owner>demo@lingoport.com</ruleset-owner>
+      <ruleset-name>java</ruleset-name>
+      <ruleset-owner>bob@reginaco.com</ruleset-owner>
       <use-machine-learning>true</use-machine-learning>
       <encoding>systemDefault</encoding>
       <checks>
@@ -45,8 +45,8 @@
     </scan>
     <scan>
       <scan-name>HTML RS</scan-name>
-      <ruleset-name>Isaac HTML</ruleset-name>
-      <ruleset-owner>demo@lingoport.com</ruleset-owner>
+      <ruleset-name>html</ruleset-name>
+      <ruleset-owner>bob@reginaco.com</ruleset-owner>
       <use-machine-learning>true</use-machine-learning>
       <encoding>systemDefault</encoding>
       <checks>
