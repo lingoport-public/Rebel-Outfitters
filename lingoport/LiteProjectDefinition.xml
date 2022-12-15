@@ -25,7 +25,7 @@
   <scans>
     <scan>
       <scan-name>JS RS</scan-name>
-      <ruleset-name>java</ruleset-name>
+      <ruleset-name>javascript</ruleset-name>
       <ruleset-owner>bob@reginaco.com</ruleset-owner>
       <use-machine-learning>true</use-machine-learning>
       <encoding>systemDefault</encoding>
