@@ -53,10 +53,12 @@ if(localStorage.getItem("orderHistory") !== null) {
 
 //used to store info about selected locale
 var locale;
+var badMessage;
 //check localStorage for saved locale, load if exists, set to en-US be default
 if(localStorage.getItem("locale") === null) {
     console.log("no locale info in storage");
     locale = "en-US";
+    badMessage = "Welcome to the galaxy, puny human";
 }
 else {
     console.log("found locale in storage, using that value");
