@@ -19,9 +19,9 @@ require.config({
     }
 });
 
-String s = "Added a string to find";
-String s2 = "Added another string";
-String s3 = "Added another string added";
+String s = i18nUtil.getString("ID17");
+String s2 = i18nUtil.getString("ID17");
+String s3 = i18nUtil.getString("ID17");
 String s4 = i18nUtil.getString("ID17");
 
 // require the unit tests.
