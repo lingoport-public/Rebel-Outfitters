@@ -14,15 +14,15 @@ let Checkout = {
         //static string to hold all the text (to be used within the HTML template literal)
         let checkoutTitle = i18n.getString("Checkout", "checkoutTitle");
         let shipSectionLabel = i18n.getString("Checkout", "shipSectionLabel");
-        let firstNameLabel = i18n.getString("Checkout", "firstNameLabel");
+        let firstNameLabel = i18n.getString("Checkout", "firstNameLabel"); //$NON-NLS-L$
         let lastNameLabel = i18n.getString("Checkout", "lastNameLabel");
         let coordinatesLabel = i18n.getString("Checkout", "coordinatesLabel");
         let coordinatesHolder = i18n.getString("Checkout", "coordinatesHolder");
-        let sectorLabel = i18n.getString("Checkout", "sectorLabel");
-        let methodLabel = i18n.getString("Checkout", "methodLabel");
-        let shipLightspeed = i18n.getString("Checkout", "shipLightspeed");
-        let shipOvernight = i18n.getString("Checkout", "shipOvernight");
-        let shipStandard = i18n.getString("Checkout", "shipStandard");
+        let sectorLabel = i18n.getString("Checkout", "sectorLabel"); //$NON-NLS-L$
+        let methodLabel = i18n.getString("Checkout", "methodLabel"); //$NON-NLS-L$
+        let shipLightspeed = i18n.getString("Checkout", "shipLightspeed"); //$NON-NLS-L$
+        let shipOvernight = i18n.getString("Checkout", "shipOvernight"); //$NON-NLS-L$
+        let shipStandard = i18n.getString("Checkout", "shipStandard"); //$NON-NLS-L$
         let paySectionLabel = i18n.getString("Checkout", "paySectionLabel");
         let payNameLabel = i18n.getString("Checkout", "payNameLabel");
         let payNameHolder = i18n.getString("Checkout", "payNameHolder");
@@ -111,7 +111,7 @@ let Checkout = {
                                         `;
         for (let i = 1; i <= 31; i++) {
             var formattedNumber = ("0" + i).slice(-2); //$NON-NLS-L$
-            view += `<option value="${formattedNumber}">${formattedNumber}</option>`;
+            view += `<option value="${formattedNumber}">${formattedNumber}</option>`; //$NON-NLS-L$
         }
         view += `
                                     </select>
