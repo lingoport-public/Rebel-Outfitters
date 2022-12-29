@@ -23,8 +23,12 @@ String s = i18nUtil.getString("ID17");
 String s2 = i18nUtil.getString("ID17");
 String s3 = i18nUtil.getString("ID17");
 String s4 = i18nUtil.getString("ID17");
-String s5 = "Hello Command Center";
-String s5 = "Hello Command Center";
+String s5 = i18nUtil.getString("TITLE");
+String s6 = i18nUtil.getString("MSG_FIL_9");
+String s7 = i18nUtil.getString("Headline");
+String s8 = i18nUtil.getString("ID-Headling");
+String s10 = "Hello Command Center";
+String s11 = "Hello Command Center";
 
 // require the unit tests.
 require([
