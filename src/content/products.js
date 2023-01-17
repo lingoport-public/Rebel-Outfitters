@@ -45,7 +45,7 @@ const products = {
             "title": i18n.getString("title", "4"),
             "price": 4500,
             "qty": 0,
-            "imageURL": "img/IG-88.png",
+            "imageURL": i18n.getImage("IG-88"),
             "desc": i18n.getString("desc", "4")
         },
         {
