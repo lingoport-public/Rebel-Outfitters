@@ -20,12 +20,12 @@ require.config({
 });
 
 String s = i18nUtil.getString("ID17");
-String s2 =  i18nUtil.getString("TITLE-S2");
-String s3 =  i18n.getString("TST_32");
-String s4 =  i18n.getString("CC_LOG_MAINT");
-String s5 ="Hello Command Center";
-String s6 ="Hello Command Center";
-String s7 = "Hello Command Center";;
+String s2 = i18nUtil.getString("TITLE-S2");
+String s3 = i18n.getString("TST_32");
+String s4 = i18n.getString("CC_LOG_MAINT");
+String s5 = i18n.getString("CC_LOG_MAINT");
+String s6 = i18n.getString("CC_LOG_MAINT");
+String s7 = i18n.getString("CC_LOG_MAINT");
 String s8 = "Hello Command Center";
 String s10 = "Hello Command Center";
 String s11 = "Hello Command Center";
