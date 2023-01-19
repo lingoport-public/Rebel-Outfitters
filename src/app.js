@@ -33,8 +33,8 @@ let dummyOrders = () => {
     var fiveDays = now - 1000 * 60 * 60 * 24 * 5;
     let order2 = new Order(900, new Date(fiveDays)); //$NON-NLS-L$
     let order1 = new Order(68500, new Date(twoDays)); //$NON-NLS-L$
-    orderHistory.push(order1);
-    orderHistory.push(order2);
+    orderHistory.push(order1); //$NON-NLS-L$
+    orderHistory.push(order2); //$NON-NLS-L$
 }
 
 //load
