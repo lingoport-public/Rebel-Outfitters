@@ -54,7 +54,7 @@ const products = {
             "title": i18n.getString("title", "5"),
             "price": 1000000,
             "qty": 0,
-            "imageURL": "img/Sphyrna_Corevette.png",
+            "imageURL": i18n.getImage("img/Sphyrna_Corevette.png"),
             "desc": i18n.getString("desc", "5")
         },
         {
@@ -63,7 +63,7 @@ const products = {
             "title": i18n.getString("title", "6"),
             "price": 5210,
             "qty": 0,
-            "imageURL": "img/G2.png",
+            "imageURL": i18n.getImage("img/G2.png"),
             "desc": i18n.getString("desc", "6")
         },
         {
@@ -72,7 +72,7 @@ const products = {
             "title": i18n.getString("title", "7"),
             "price": 1500000,
             "qty": 0,
-            "imageURL": "img/CR90.png",
+            "imageURL": i18n.getImage("img/CR90.png"),
             "desc": i18n.getString("desc", "7")
         },
         {
@@ -81,7 +81,7 @@ const products = {
             "title": i18n.getString("title", "8"),
             "price": 8000,
             "qty": 0,
-            "imageURL": "img/74-Z.png",
+            "imageURL": i18n.getImage("img/74-Z.png"),
             "desc": i18n.getString("desc", "8")
         },
         {
@@ -90,7 +90,7 @@ const products = {
             "title": i18n.getString("title", "9"),
             "price": 200000,
             "qty": 0,
-            "imageURL": "img/ETA-2.png",
+            "imageURL": i18n.getImage("img/ETA-2.png"),
             "desc": i18n.getString("desc", "9")
         },
         {
