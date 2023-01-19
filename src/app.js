@@ -215,10 +215,10 @@ let getFeaturedProducts = async () => {
     let vehicleMap = productList.get('vehicles');
     let droidMap = productList.get('droids');
    
-    featuredProducts.push(vehicleMap.get(5));
-    featuredProducts.push(droidMap.get(1));
-    featuredProducts.push(vehicleMap.get(8));
-    featuredProducts.push(droidMap.get(2));
+    featuredProducts.push(vehicleMap.get(5)); //$NON-NLS-L$
+    featuredProducts.push(droidMap.get(1)); //$NON-NLS-L$
+    featuredProducts.push(vehicleMap.get(8)); //$NON-NLS-L$
+    featuredProducts.push(droidMap.get(2)); //$NON-NLS-L$
 }
 
 export { shoppingCart, addToCart, showCart, router, locale, productList, updateLocale, orderHistory, featuredProducts, saveCart };
