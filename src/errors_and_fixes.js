@@ -30,7 +30,7 @@ String s8 = "Hello Command Center, how are you?";
 
 /* Adding comments to see what 'fix' v. 'open' will do in Command Center */
 String s10 = "Hello Command Center";
-String s11 = "Hello Command Center";
+String s11 = "Hello Command Center"; // $NON-NLS-L$
 
 // require the unit tests.
 require([
