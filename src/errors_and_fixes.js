@@ -28,7 +28,7 @@ String s6 = i18n.getString("CC_LOG_MAINT");
 String s7 = i18n.getString("CC_LOG_MAINT")
 
 //Hello, more comments
-String s8 = "New issue?";
+String s8 = "bad thing";
 
 /* Adding comments to see what 'fix' v. 'open' will do in Command Center */
 String s10 = i18n.getString("Hello Command Center");
