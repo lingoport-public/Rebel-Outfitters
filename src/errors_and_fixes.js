@@ -25,9 +25,7 @@ String s3 = i18n.getString("TST_32");
 String s4 = i18n.getString("CC_LOG_MAINT");
 String s5 = i18n.getString("CC_LOG_MAINT");
 String s6 = i18n.getString("CC_LOG_MAINT");
-String s7 = i18n.getString("CC_LOG_MAINT");
-
-File image = lili.png;
+String s7 = i18n.getString("CC_LOG_MAINT")
 
 //Hello, more comments
 String s8 = "Hello Command Center, how are you?";
@@ -35,6 +33,10 @@ String s8 = "Hello Command Center, how are you?";
 /* Adding comments to see what 'fix' v. 'open' will do in Command Center */
 String s10 = i18n.getString("Hello Command Center");
 String s11 = "Hello Command Center"; // $NON-NLS-L$
+
+;
+
+File image = lili.png;
 
 // require the unit tests.
 require([
