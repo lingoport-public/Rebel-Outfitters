@@ -27,6 +27,7 @@ String s5 = i18n.getString("CC_LOG_MAINT");
 String s6 = i18n.getString("CC_LOG_MAINT");
 String s7 = i18n.getString("CC_LOG_MAINT");
 
+File image = lili.png;
 
 //Hello, more comments
 String s8 = "Hello Command Center, how are you?";
