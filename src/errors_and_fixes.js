@@ -26,10 +26,13 @@ String s4 = i18n.getString("CC_LOG_MAINT");
 String s5 = i18n.getString("CC_LOG_MAINT");
 String s6 = i18n.getString("CC_LOG_MAINT");
 String s7 = i18n.getString("CC_LOG_MAINT");
+
+
+//Hello, more comments
 String s8 = "Hello Command Center, how are you?";
 
 /* Adding comments to see what 'fix' v. 'open' will do in Command Center */
-String s10 = "Hello Command Center";
+String s10 = i18n.getString("Hello Command Center");
 String s11 = "Hello Command Center"; // $NON-NLS-L$
 
 // require the unit tests.
