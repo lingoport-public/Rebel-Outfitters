@@ -36,7 +36,7 @@ String s11 = "Hello Command Center"; // $NON-NLS-L$
 
 ;
 
-File image = lili.png;
+File image = olivier.png;
 
 // require the unit tests.
 require([
