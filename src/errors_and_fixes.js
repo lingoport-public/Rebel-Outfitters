@@ -19,13 +19,13 @@ require.config({
     }
 });
 
-String s = i18nUtil.getString("ID17");
-String s2 = i18nUtil.getString("TITLE-S2");
-String s3 = i18n.getString("TST_32");
-String s4 = i18n.getString("CC_LOG_MAINT");
-String s5 = i18n.getString("CC_LOG_MAINT");
-String s6 = i18n.getString("CC_LOG_MAINT");
-String s7 = i18n.getString("CC_LOG_MAINT")
+String s = "Beyond the steady rock the steady sea";
+String s2 = "In movement more immovable than station";
+String s3 = "Gathers and washes and is gone";
+String s4 = "A slow obscure metonymy of motion";
+String s5 = "Crumbling the inner barriers of the brain";
+String s6 = "But the crossed rock braces the hills";
+String s7 = "A steady quiet";
 
 //Hello, more comments
 String s8 = "bad thing";
