@@ -58,7 +58,7 @@ var badMessage;
 if(localStorage.getItem("locale") === null) {
     console.log("no locale info in storage");
     locale = "en-US";
-    badMessage = "Welcome to the galaxy, puny human";
+    badMessage = i18nUtil.getMessage("ID_WELCOM_1");
 }
 else {
     console.log("found locale in storage, using that value");
