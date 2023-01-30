@@ -26,7 +26,7 @@ const products = {
             "title": i18n.getString("title", "2"),
             "price": 800,
             "qty": 0,
-            "imageURL": "img/DUM-series.png",
+            "imageURL": i18n.getImage("img/DUM-series.png"),
             "desc": i18n.getString("desc", "2")
         },
         {
@@ -36,7 +36,7 @@ const products = {
             "title": i18n.getString("title", "3"),
             "price": 4300,
             "qty": 0,
-            "imageURL": "img/2-1B.png",
+            "imageURL": i18n.getImage("img/2-1B.png"),
             "desc": i18n.getString("desc", "3")
         },
         {
