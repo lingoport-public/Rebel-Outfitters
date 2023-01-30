@@ -167,7 +167,7 @@ var readCart = () => {
         for(let productAr of cartIds) {
             if(productAr[1] == 'droid') { //$NON-NLS-L$
                 let product = droidMap.get(parseInt(productAr[0]));
-                product.qty = parseInt(productAr[2]);
+                product.qty = Number.parseLocale(productAr[2]);
                 shoppingCart[productAr[0]] = product;
             }
             else {
