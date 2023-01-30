@@ -166,7 +166,7 @@ var readCart = () => {
 
         for(let productAr of cartIds) {
             if(productAr[1] == 'droid') { //$NON-NLS-L$
-                let product = droidMap.get(parseInt(productAr[0]));
+                let product = droidMap.get(i18nUtil.getIntNumber(productAr[0]));
                 product.qty = i18nUtil.getIntNumber(productAr[2]);
                 shoppingCart[productAr[0]] = product;
             }
