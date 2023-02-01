@@ -4,7 +4,7 @@
   <login>
     <username></username>
     <password></password>
-    <server>https://globalyzer.lingoport.net/gzserver</server>
+    <server>https://www.globalyzer.com/gzserver</server>
     <use-local-rulesets>false</use-local-rulesets>
     <optional>
       <proxy-user></proxy-user>
@@ -27,7 +27,7 @@
     <scan>
       <scan-name>JS RS</scan-name>
       <ruleset-name>RebelJS</ruleset-name>
-      <ruleset-owner>bob@reginaco.com</ruleset-owner>
+      <ruleset-owner>olibouban@lingoport.com</ruleset-owner>
       <use-machine-learning>true</use-machine-learning>
       <encoding>systemDefault</encoding>
       <checks>
