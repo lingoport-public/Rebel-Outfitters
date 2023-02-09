@@ -171,8 +171,8 @@ var readCart = () => {
                 shoppingCart[productAr[0]] = product;
             }
             else {
-                let product = vehicleMap.get(parseInt(productAr[0]));
-                product.qty = parseInt(productAr[2]);
+                let product = vehicleMap.get(localeIntParse(productAr[0]));
+                product.qty = localeIntParse(productAr[2]);
                 shoppingCart[productAr[0]] = product;
             }
         }
