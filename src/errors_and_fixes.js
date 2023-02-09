@@ -39,7 +39,7 @@ String s11 = "Hello Command Center"; // $NON-NLS-L$
 
 ;
 
-File image = olivier.png;
+File image = i18n.getImage(olivier.png);
 
 // require the unit tests.
 require([
