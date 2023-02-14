@@ -31,11 +31,11 @@ String s6 = i18nUtil.getMessage("ID_CROSS_5");
 String s7 = i18nUtil.getMessage("ID_QUIET_6");
 
 //Hello, more comments
-String s8 = "bad thing"; // $NON-NLS-L$
+String s8 = "bad thing"; 
 
 /* Adding comments to see what 'fix' v. 'open' will do in Command Center */
 String s10 = i18n.getString("Hello Command Center");
-String s11 = "Command Center"; // $NON-NLS-L$ This is our product name, needs to stay the same.
+String s11 = "Command Center"; 
 
 ;
 
