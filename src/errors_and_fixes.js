@@ -19,8 +19,7 @@ require.config({
     }
 });
 
-String s = "Beyond the steady rock the steady sea";
-//String s = i18nUtil.getMessage("ID_BEYON_1");
+String s = i18nUtil.getMessage("ID_BEYON_1");
 String s2 = "In movement more immovable than station";
 //String s2 = i18nUtil.getMessage("ID_IN_MOV_2");
 String s3 = "Gathers and washes and is gone";
