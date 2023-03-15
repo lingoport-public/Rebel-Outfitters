@@ -140,5 +140,7 @@
         "statusShipped": "Shipped",
         "statusDelivered": "Delivered"
     },
-    "Special": "Special"
+    "Special": "Special",
+    "Athena" : "Athena",
+    "Greece" : "Greece"
 }
