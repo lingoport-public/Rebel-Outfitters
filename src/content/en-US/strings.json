@@ -139,5 +139,6 @@
         "statusShipped": "Shipped",
         "statusDelivered": "Delivered"
     },
-    "Special": "Special"
+    "Special": "Special",
+    "XTM": "XTM Translation"
 }
