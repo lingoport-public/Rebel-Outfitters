@@ -100,7 +100,8 @@
         "statusHeading": "Status"
     },
     "Error404": {
-        "errorMessage": "404 Error: Page not found."
+        "errorMessage": "404 Error: Page not found.",
+        "errorDesc": "Please check the URL for typos"
     },
     "Bottombar": {
         "menuAlt": "open sidebar menu"
