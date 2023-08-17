@@ -20,8 +20,9 @@ require.config({
 });
 
 String s = i18nUtil.getMessage("ID_BEYON_1");
-String s2 = "In movement more immovable than station";
-//String s2 = i18nUtil.getMessage("ID_IN_MOV_2");
+String s2 = i18nUtil.getMessage("ID_IN_MOV_2");
+//String s2 = "In movement more immovable than station";
+
 String s3 = "Gathers and washes and is gone";
 //String s3 = i18nUtil.getMessage("ID_GATH_WASH_3");
 String s4 = "A slow obscure metonymy of motion."; // $NON-NLS-L$
