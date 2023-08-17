@@ -31,7 +31,7 @@ String s6 = i18nUtil.getMessage("ID_CROSS_5");
 String s7 = i18nUtil.getMessage("ID_QUIET_6");
 
 //Hello, more comments
-String s8 = "bad thing"; 
+String s8 = "Welcome to Command Center. Please enter your licensing information"; 
 
 /* Adding comments to see what 'fix' v. 'open' will do in Command Center */
 // String s10 = i18n.getString("Hello Command Center");
