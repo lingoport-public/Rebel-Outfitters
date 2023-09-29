@@ -17,6 +17,7 @@
   <project-name>Lingoport.badi18n</project-name>
   <report-path>globalyzer-lite-reports</report-path>
   <report-type>ScanDetailedXML</report-type>
+  <report-priorities>C,1,2,3,4,5</report-priorities>
   <data-dictionary-location></data-dictionary-location>
   <filter-with-dictionary>true</filter-with-dictionary>
   <scan-timeout>120</scan-timeout>
@@ -25,14 +26,14 @@
   <scans>
     <scan>
       <scan-name>JS RS</scan-name>
-      <ruleset-name>JS Rule Set</ruleset-name>
-      <ruleset-owner>demo@lingoport.com</ruleset-owner>
+      <ruleset-name>RebelJS</ruleset-name>
+      <ruleset-owner>olibouban@lingoport.com</ruleset-owner>
       <use-machine-learning>true</use-machine-learning>
       <encoding>systemDefault</encoding>
       <checks>
         <embedded-strings>true</embedded-strings>
         <locale-sensitive-methods>true</locale-sensitive-methods>
-        <general-patterns>true</general-patterns>
+        <general-patterns>false</general-patterns>
         <static-file-references>true</static-file-references>
       </checks>
       <comments>
