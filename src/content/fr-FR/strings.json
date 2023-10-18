@@ -4,7 +4,7 @@
     "2": "Droïde - série DUM",
     "3": "Droïde Neurochirurgien 2-1B",
     "4": "IG-88B Droïde",
-    "5":"Frégate Sphyrna",
+    "5": "Frégate Sphyrna",
     "6": "Droïde garagiste G2",
     "7": "CR90 Corvette",
     "8": "74-Z Vélocirapteur",
@@ -12,7 +12,8 @@
     "10": "Droïde modèle R3",
     "11": "T-70 X-Wing",
     "12": "Vaisseau galactique Y-Wing",
-    "13": "Super Droïde tactique"
+    "13": "Super Droïde tactique",
+    "14": "nouvelle chaîne"
     },
     "desc": {
     "1": "Ce droïde est équipé d'un SyntheTech AA-1 VerboBrain qui les rend capables de stocker d'énormes quantités informations, l'espace mémoire supplémentaire est souvent utilisé pour garder les modules de communication dans la mémoire active afin d'éviter de longs retards lors de la recherche informations linguistiques à mi-traduction. Un module de communication Tranlang III leur permet de maîtriser couramment plus de six millions de formes de communication. Ils possèdent également les compétences nécessaires pour analyser rapidement de nouvelles langues non enregistrées et les traduire en langues plus connues.",
