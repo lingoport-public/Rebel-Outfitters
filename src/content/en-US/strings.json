@@ -104,7 +104,7 @@
         "errorMessage": "404 Error: Page not found."
     },
     "Bottombar": {
-        "menuAlt": "open sidebar menu"
+        "menuAlt":"new sidebar menu"
     },
     "Hamburger": {
         "githubLogoAlt": "GitHub Logo",
