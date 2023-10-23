@@ -86,11 +86,11 @@
         "addToCartLabel": "ADD TO CART"
     },
     "Cart": {
-        "cartTitle":"correct4",
+        "cartTitle":"correct5",
         "noItemMsg": "No items in cart.",
         "deleteAlt": "Delete item from cart",
         "totalTitle": "Total: ",
-        "checkoutLabel": "CHECKOUT",
+        "checkoutLabel": "correct4",
         "closeAlt": "Close Cart"
     },
     "OrderHistory": {
