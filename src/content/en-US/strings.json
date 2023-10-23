@@ -86,7 +86,7 @@
         "addToCartLabel": "ADD TO CART"
     },
     "Cart": {
-        "cartTitle":"correct5",
+        "cartTitle":"correct6",
         "noItemMsg": "No items in cart.",
         "deleteAlt": "Delete item from cart",
         "totalTitle": "Total: ",
