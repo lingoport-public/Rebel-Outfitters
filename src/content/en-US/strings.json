@@ -108,7 +108,7 @@
     },
     "Hamburger": {
         "githubLogoAlt": "GitHub Logo",
-        "lingoLogoAlt": "Lingoport Logo",
+        "lingoLogoAlt":"Lingoport Logo1",
         "versionLabel": "Version: ",
         "versionBad": "Non-i18n Compliant",
         "versionGood": "I18n Compliant",
