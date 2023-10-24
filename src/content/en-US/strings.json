@@ -69,7 +69,7 @@
         "payNameHolder": "First Last",
         "accountLabel": "Imperial Credit Number",
         "accountHolder": "1234567-9876-00",
-        "securityLabel": "Security Code",
+        "securityLabel":"Security Almost",
         "securityHolder": "123456",
         "expDateLabel": "Expiration Date",
         "cartTitle": "Shopping Cart",
