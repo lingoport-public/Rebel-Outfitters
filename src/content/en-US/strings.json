@@ -78,7 +78,7 @@
         "orderLabel": "PLACE ORDER",
         "termsStatement": "I have read and agree to the Terms and Conditions",
         "termsLink": "(View)",
-        "successMessage":"Order new new placed successfully!",
+        "successMessage":"Order new new new placed successfully!",
         "noItemMessage": "Add items to cart to checkout."
     },
     "ProductShow": {
@@ -88,7 +88,7 @@
     "Cart": {
         "cartTitle":"correct6",
         "noItemMsg": "No items in cart.",
-        "deleteAlt": "Delete item from cart",
+        "deleteAlt":"Delete item from cart2",
         "totalTitle": "Total: ",
         "checkoutLabel": "correct4",
         "closeAlt":"Close cart2"
