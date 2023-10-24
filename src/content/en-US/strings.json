@@ -67,7 +67,7 @@
         "paySectionLabel": "Payment",
         "payNameLabel": "Name on Card",
         "payNameHolder": "First Last",
-        "accountLabel": "Imperial Credit Number",
+        "accountLabel":"Imperial2 Credit Number",
         "accountHolder": "1234567-9876-00",
         "securityLabel": "Security Code",
         "securityHolder": "123456",
