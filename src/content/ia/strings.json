@@ -7,10 +7,10 @@
     "vehicleTitle": "40.43 All Vehicles"
   },
   "Cart": {
-    "cartTitle": "40.73 Shopping Cart",
-    "checkoutLabel": "40.77 CHECKOUT",
-    "closeAlt": "40.78 Close Cart",
-    "deleteAlt": "40.75 Delete item from cart",
+    "cartTitle": "40.73 correct6",
+    "checkoutLabel": "40.77 correct4",
+    "closeAlt": "40.78 Close cart2",
+    "deleteAlt": "40.75 Delete item from cart2",
     "noItemMsg": "40.74 No items in cart.",
     "totalTitle": "40.76 Total: "
   },
@@ -33,26 +33,26 @@
     "paySectionLabel": "40.55 Payment",
     "sectorLabel": "40.50 Sector/Quadrant",
     "securityHolder": "40.61 123456",
-    "securityLabel": "40.60 Security Code",
+    "securityLabel": "40.60 Security Almost",
     "shipLightspeed": "40.52 Lightspeed",
     "shipOvernight": "40.53 Overnight",
     "shipSectionLabel": "40.45 Shipping Info",
     "shipStandard": "40.54 Standard",
-    "successMessage": "40.69 Order placed successfully!",
+    "successMessage": "40.69 Order new new new placed successfully!",
     "termsLink": "40.68 (View)",
     "termsStatement": "40.67 I have read and agree to the Terms and Conditions",
-    "totalLabel": "40.65 Total: "
+    "totalLabel": "40.65 new2: "
   },
   "Error404": {
     "errorMessage": "40.84 404 Error: Page not found."
   },
   "Hamburger": {
-    "contactLabel": "40.111 Contact Us",
+    "contactLabel": "40.111 Contact us2",
     "dashLabel": "40.110 View Lingoport Dashboard",
     "githubLabel": "40.109 View Source",
     "githubLogoAlt": "40.86 GitHub Logo",
     "learnLabel": "40.112 Learn More",
-    "lingoLogoAlt": "40.87 Lingoport Logo",
+    "lingoLogoAlt": "40.87 Lingoport Logo1",
     "localeDE": "40.97 German - Germany",
     "localeEN": "40.93 English - United States",
     "localeEO": "40.107 Esperanto",
@@ -91,7 +91,7 @@
     "navLinkVehicles": "40.38 VEHICLES",
     "searchButtonLabel": "40.29 search products",
     "searchIconAlt": "40.31 search icon",
-    "searchPlaceholder": "40.28 What are you looking for?"
+    "searchPlaceholder": "40.28 What are you2 looking for?"
   },
   "OrderHistory": {
     "dateHeading": "40.80 Date",
