@@ -64,7 +64,7 @@
         "coordinatesLabel": "Coordinates",
         "coordinatesHolder": "0,0,0",
         "sectorLabel": "Sector/Quadrant",
-        "methodLabel": "Shipping Method",
+        "methodLabel":"Shipping2 Method",
         "shipLightspeed": "Lightspeed",
         "shipOvernight": "Overnight",
         "shipStandard": "Standard",
@@ -108,7 +108,7 @@
         "errorMessage": "404 Error: Page not found."
     },
     "Bottombar": {
-        "menuAlt":"new2 sidebar menu"
+        "menuAlt":"new2 sidebar menu2"
     },
     "Hamburger": {
         "githubLogoAlt": "GitHub Logo",
