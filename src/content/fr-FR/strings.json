@@ -33,7 +33,7 @@
     },
     "Navbar": {
     "searchPlaceholder": "Que recherchez-vous ?",
-    "searchButtonLabel": "recherche de produits",
+    "searchButtonLabel":"Recherche de produits",
     "logoAlt": "Logo des pourvoyeurs Rebel",
     "searchIconAlt": "icône de recherche",
     "greetingText": "Salut Han",
@@ -95,8 +95,8 @@
     "closeAlt": "Fermer le panier"
     },
     "OrderHistory": {
-    "historyTitle": "Historique des commandes",
-    "dateHeading": "Date",
+    "historyTitle":"Vos Commandes",
+    "dateHeading":"Date",
     "numberHeading": "Numéro de commande",
     "totalHeading": "Total",
     "statusHeading": "Statut"
