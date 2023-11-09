@@ -28,7 +28,7 @@
     "lastNameLabel": "2.1417 Last Name",
     "methodLabel": "2.1421 Shipping Method",
     "noItemMessage": "2.1440 Add items to cart to checkout.",
-    "orderLabel": "2.1436 PLACE ORDER",
+    "orderLabel": "2.1436 Place Orders",
     "payNameHolder": "2.1427 First Last",
     "payNameLabel": "2.1426 Name on Card",
     "paySectionLabel": "2.1425 Payment",
@@ -84,7 +84,7 @@
   },
   "Navbar": {
     "arrowAlt": "2.1404 Drop Down Arrow",
-    "cartAlt": "2.1405 show cart",
+    "cartAlt": "2.1405 Show Cart",
     "greetingText": "2.1402 Hi Han",
     "historyLink": "2.1403 ORDERS HISTORY",
     "logoAlt": "2.1400 Rebel Outfitters Logo",
