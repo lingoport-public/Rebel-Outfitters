@@ -1,6 +1,6 @@
 {
   "Bottombar": {
-    "menuAlt": "2.206 new2 sidebar menu"
+    "menuAlt": "2.206 new2 sidebar menu2"
   },
   "Browse": {
     "droidTitle": "2.163 Almost Droids new",
@@ -25,7 +25,7 @@
     "expDateLabel": "2.183 Expiration Date",
     "firstNameLabel": "2.167 First Name",
     "lastNameLabel": "2.168 Last Name",
-    "methodLabel": "2.172 Shipping Method",
+    "methodLabel": "2.172 Shipping2 Method",
     "noItemMessage": "2.191 Add items to cart to checkout.",
     "orderLabel": "2.187 PLACE ORDER",
     "payNameHolder": "2.178 First Last",
@@ -132,7 +132,7 @@
     "12": "2.130 Y-Wing Galactic Fighter",
     "13": "2.131 Super Tactical Droid",
     "14": "2.132 new string",
-    "15": "2.133 another string",
+    "15": "2.133 another string2",
     "16": "2.134 Oct 16 string",
     "17": "2.135 Oct 27 string",
     "2": "2.120 DUM-series Droid",
