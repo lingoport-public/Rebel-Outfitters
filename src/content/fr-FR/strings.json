@@ -33,7 +33,7 @@
     },
     "Navbar": {
     "searchPlaceholder": "Que recherchez-vous ?",
-    "searchButtonLabel":"Recherche de produits",
+    "searchButtonLabel": "Recherche de produits",
     "logoAlt": "Logo des pourvoyeurs Rebel",
     "searchIconAlt": "icône de recherche",
     "greetingText": "Salut Han",
@@ -68,7 +68,7 @@
     "paySectionLabel": "Paiement",
     "payNameLabel": "Nom sur la carte",
     "payNameHolder": "Premier Dernier",
-    "accountLabel":"Carte de crédit impérial",
+    "accountLabel": "Carte de crédit impérial",
     "accountHolder": "1234567-9876-00",
     "securityLabel": "Code de sécurité",
     "securityHolder": "123456",
@@ -76,7 +76,7 @@
     "cartTitle": "Panier",
     "deleteAlt": "supprimer l'article du panier",
     "totalLabel": "Total : ",
-    "orderLabel":"Passer Commande",
+    "orderLabel": "Passez des commandes",
     "termsStatement": "J'ai lu et j'accepte les Termes et Conditions",
     "termsLink": "(Voir)",
     "successMessage": "Commande passée avec succès !",
@@ -95,8 +95,8 @@
     "closeAlt": "Fermer le panier"
     },
     "OrderHistory": {
-    "historyTitle":"Vos Commandes",
-    "dateHeading":"Date",
+    "historyTitle": "Vos Commandes",
+    "dateHeading": "Date",
     "numberHeading": "Numéro de commande",
     "totalHeading": "Total",
     "statusHeading": "Statut"
