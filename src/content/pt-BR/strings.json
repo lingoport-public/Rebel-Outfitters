@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "Embaixador 3P0",
+    "1": "Capturado 30P",
     "2": "Droid série DUM-",
     "3": "2-1B Doutor Droid",
     "4": "Droid IG-88B",
@@ -43,12 +43,12 @@
     "navLinkVehicles": "VEÍCULOS"
     },
     "Home": {
-    "welcomeMessage": "Bem-vindo ao Rebel Outfitters!",
+    "welcomeMessage": "Bem-vindo ao Rebel Outfitters v. Capture!",
     "welcomeSubtitle": "Nós fornecemos tudo o que você precisa para enfrentar o Império (e destruí-lo).",
     "symbolAlt": "Símbolo de moeda de crédito"
     },
     "Browse": {
-    "droidTitle": "Todos os dróides",
+    "droidTitle": "Todos os dróides capturados",
     "vehicleTitle": "Todos os Veículos"
     },
     "Checkout": {
@@ -128,7 +128,7 @@
     "localeYO": "Yoda",
     "localeSI": "Sith",
     "localeEO": "esperanto",
-    "localeLA": "Captura de contexto",
+    "localeLA": "Contexto",
     "localeIA": "Revisor Linguístico",
     "githubLabel": "Ver código-fonte",
     "dashLabel": "Exibir Painel do Lingoport",

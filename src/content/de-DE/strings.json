@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P 0",
+    "1": "Erfasst 3P0",
     "2": "Dum-Serie Droid",
     "3": "2-1B Droid des Gehirnchirurgen",
     "4": "IG-88B Droid",
@@ -43,12 +43,12 @@
     "navLinkVehicles": "FAHRZEUGE"
     },
     "Home": {
-    "welcomeMessage": "Willkommen bei Rebel Outfitters!",
+    "welcomeMessage": "Willkommen bei Rebel Outfitters v. Capture!",
     "welcomeSubtitle": "Wir bieten alles, was du brauchst, um es mit dem Imperium aufzunehmen (und es zu zerstören).",
     "symbolAlt": "Währungssymbol für britische Kredit"
     },
     "Browse": {
-    "droidTitle": "Alle Droiden",
+    "droidTitle": "Alle gefangenen Droiden",
     "vehicleTitle": "Alle Fahrzeuge"
     },
     "Checkout": {
@@ -128,7 +128,7 @@
     "localeYO": "Yoda",
     "localeSI": "Sith",
     "localeEO": "Esperanto",
-    "localeLA": "Kontexterfassung",
+    "localeLA": "Kontext",
     "localeIA": "Linguistischer Prüfer",
     "githubLabel": "Quelle anzeigen",
     "dashLabel": "Lingoport Dashboard anzeigen",

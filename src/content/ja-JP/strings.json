@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "シー３PＯ3D",
+    "1": "キャプチャされた 3P0",
     "2": "Dumシリーズ・ドロイド",
     "3": "2-1B 脳外科医ドロイド",
     "4": "ドロイド",
@@ -43,12 +43,12 @@
     "navLinkVehicles": "乗り物"
     },
     "Home": {
-    "welcomeMessage": "Rebel Outfittersへようこそ！",
+    "welcomeMessage": "「レベル・アウトフィッターズ vs. キャプチャ」へようこそ！",
     "welcomeSubtitle": "帝国を制覇する（そして破壊する）ために必要なものはすべて提供する。",
     "symbolAlt": "インペリアル信用通貨記号"
     },
     "Browse": {
-    "droidTitle": "すべてのドロイド",
+    "droidTitle": "捕獲されたすべてのドロイド",
     "vehicleTitle": "すべての車両"
     },
     "Checkout": {
@@ -128,7 +128,7 @@
     "localeYO": "ヨーダ",
     "localeSI": "シス",
     "localeEO": "エスペラントの",
-    "localeLA": "コンテキストキャプチャ",
+    "localeLA": "コンテキスト",
     "localeIA": "言語査読者",
     "githubLabel": "ソースを表示",
     "dashLabel": "Lingoport ダッシュボードを表示",

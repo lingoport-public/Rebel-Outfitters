@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "C3P0",
+    "1": "捕获了 3P0",
     "2": "DUM 系列机器人",
     "3": "2-1B 脑外科医生 Droid",
     "4": "机器人",
@@ -43,12 +43,12 @@
     "navLinkVehicles": "车辆"
     },
     "Home": {
-    "welcomeMessage": "欢迎来到反叛装备商！",
+    "welcomeMessage": "欢迎来到 Rebel Outfitters v Capture！",
     "welcomeSubtitle": "我们提供你对抗帝国（并摧毁它们）所需的一切。",
     "symbolAlt": "帝国信用货币符号"
     },
     "Browse": {
-    "droidTitle": "所有机器人",
+    "droidTitle": "所有捕获的机器人",
     "vehicleTitle": "所有车辆"
     },
     "Checkout": {
@@ -128,7 +128,7 @@
     "localeYO": "尤达",
     "localeSI": "西斯",
     "localeEO": "世界语",
-    "localeLA": "上下文捕获",
+    "localeLA": "背景",
     "localeIA": "语言审阅者",
     "githubLabel": "查看源",
     "dashLabel": "查看林戈波特控制面板",

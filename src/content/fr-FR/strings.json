@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0",
+    "1": "Capturé P30",
     "2": "Droïde - Séries DUM",
     "3": "Droïde Neurochirurgien 2-1B",
     "4": "IG-88B Droïde",
@@ -43,12 +43,12 @@
     "navLinkVehicles": "VÉHICULES"
     },
     "Home": {
-    "welcomeMessage": "Bienvenue chez Rebel Outfitters !",
+    "welcomeMessage": "Bienvenue sur Rebel Outfitters v. Capture !",
     "welcomeSubtitle": "Nous vous fournissons tout ce dont vous avez besoin pour affronter l'Empire (et le détruire).",
     "symbolAlt": "Symbole de devise du Crédit"
     },
     "Browse": {
-    "droidTitle": "Tous les Droïdes",
+    "droidTitle": "Tous les droïdes capturés",
     "vehicleTitle": "Tous les véhicules"
     },
     "Checkout": {
@@ -128,7 +128,7 @@
     "localeYO": "Yoda",
     "localeSI": "Sith",
     "localeEO": "Espéranto",
-    "localeLA": "Capture du contexte",
+    "localeLA": "Contexte",
     "localeIA": "Revue linguistique",
     "githubLabel": "Voir la source",
     "dashLabel": "Voir le tableau de bord Lingoport",

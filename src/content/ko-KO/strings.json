@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0",
+    "1": "캡처된 3P0",
     "2": "덤 시리즈 드로이드",
     "3": "2-1B 뇌 외과 의사 드로이드",
     "4": "IG-88B 드로이드",
@@ -43,12 +43,12 @@
     "navLinkVehicles": "차량"
     },
     "Home": {
-    "welcomeMessage": "반란군 장신구들에 오신 것을 환영합니다!",
+    "welcomeMessage": "리벨 아웃피터스 대 캡쳐에 오신 것을 환영합니다!",
     "welcomeSubtitle": "우리는 당신이 제국을 장악하고 파괴하는 데 필요한 모든 것을 제공합니다.",
     "symbolAlt": "영국식 신용 통화 기호"
     },
     "Browse": {
-    "droidTitle": "모든 드로이드",
+    "droidTitle": "모든 캡처된 드로이드",
     "vehicleTitle": "모든 차량"
     },
     "Checkout": {
@@ -128,7 +128,7 @@
     "localeYO": "요다",
     "localeSI": "시스",
     "localeEO": "에스페란토",
-    "localeLA": "컨텍스트 캡처",
+    "localeLA": "컨텍스트",
     "localeIA": "언어 검토자",
     "githubLabel": "소스 보기",
     "dashLabel": "링고포트 대시보드 보기",

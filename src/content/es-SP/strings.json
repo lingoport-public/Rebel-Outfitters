@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "C3P0 - Espanola",
+    "1": "Capturó 30 puntos",
     "2": "DUM-Droyd de la serie",
     "3": "Droide cirujano cerebral 2-1B",
     "4": "IG-88B Droid",
@@ -43,12 +43,12 @@
     "navLinkVehicles": "VEHÍCULOS"
     },
     "Home": {
-    "welcomeMessage": "¡Bienvenido al rincón del rebelde!",
+    "welcomeMessage": "¡Bienvenido a Rebel Outfitters v. Capture!",
     "welcomeSubtitle": "Te proporcionamos todo lo que necesitas para enfrentarte al Imperio (y destruirlo).",
     "symbolAlt": "Símbolo de moneda de crédito imperial"
     },
     "Browse": {
-    "droidTitle": "Todos los droides",
+    "droidTitle": "Todos los droides capturados",
     "vehicleTitle": "Todos los vehículos"
     },
     "Checkout": {
@@ -128,7 +128,7 @@
     "localeYO": "Yoda",
     "localeSI": "Sith",
     "localeEO": "esperanto",
-    "localeLA": "Captura de contexto",
+    "localeLA": "Contexto",
     "localeIA": "Revisor lingüístico",
     "githubLabel": "Ver origen",
     "dashLabel": "Ver panel de Lingoport",

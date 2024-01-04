@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0",
+    "1": "Захваченный P30",
     "2": "Дроид серии DUM",
     "3": "Дроид хирурга мозга 2-1B",
     "4": "IG-88B Дроид",
@@ -43,12 +43,12 @@
     "navLinkVehicles": "ТРАНСПОРТНЫХ"
     },
     "Home": {
-    "welcomeMessage": "Добро пожаловать в Rebel Outfitters!",
+    "welcomeMessage": "Добро пожаловать в игру Rebel Outfitters против Capture!",
     "welcomeSubtitle": "Мы предоставляем все необходимое, чтобы сразиться с Империей (и уничтожить ее).",
     "symbolAlt": "Символ британской кредитной валюты"
     },
     "Browse": {
-    "droidTitle": "Все дроиды",
+    "droidTitle": "Все пойманные дроиды",
     "vehicleTitle": "Все транспортные средства"
     },
     "Checkout": {
@@ -128,7 +128,7 @@
     "localeYO": "Йода",
     "localeSI": "Сит",
     "localeEO": "эсперанто",
-    "localeLA": "Захват контекста",
+    "localeLA": "Контекст",
     "localeIA": "Языковой рецензент",
     "githubLabel": "Просмотр источника",
     "dashLabel": "Просмотр панели мониторинга Lingoport",
