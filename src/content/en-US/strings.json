@@ -1,6 +1,6 @@
 {
     "title": {
-        "1":"3P0",
+        "1":"Captured 3P0",
         "2": "DUM-series Droid",
         "3":"2-1B Brain Surgeon Droid",
         "4": "IG-88B Droid",
@@ -43,12 +43,12 @@
         "navLinkVehicles": "VEHICLES"
     },
     "Home": {
-        "welcomeMessage": "Welcome to Rebel Outfitters!",
+        "welcomeMessage": "Welcome to Rebel Outfitters v. Capture!",
         "welcomeSubtitle": "We provide everything you need to take on the Empire (and destroy them).",
         "symbolAlt": "Imperial Credit currency symbol"
     },
     "Browse": {
-        "droidTitle": "All Droids",
+        "droidTitle": "All Captured Droids",
         "vehicleTitle": "All Vehicles"
     },
     "Checkout": {
