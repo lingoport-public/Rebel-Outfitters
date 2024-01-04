@@ -1,6 +1,6 @@
 {
     "title": {
-    "1":"C3P0 - Espanola",
+    "1": "C3P0 - Espanola",
     "2": "DUM-Droyd de la serie",
     "3": "Droide cirujano cerebral 2-1B",
     "4": "IG-88B Droid",
@@ -128,6 +128,7 @@
     "localeYO": "Yoda",
     "localeSI": "Sith",
     "localeEO": "esperanto",
+    "localeLA": "Captura de contexto",
     "localeIA": "Revisor lingüístico",
     "githubLabel": "Ver origen",
     "dashLabel": "Ver panel de Lingoport",

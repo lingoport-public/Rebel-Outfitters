@@ -81,7 +81,7 @@
     "noItemMessage": "将商品添加到购物车进行结账。"
     },
     "ProductShow": {
-    "qtyLabel":"量数： ",
+    "qtyLabel": "量数： ",
     "addToCartLabel": "添加到购物车"
     },
     "Cart": {
@@ -128,6 +128,7 @@
     "localeYO": "尤达",
     "localeSI": "西斯",
     "localeEO": "世界语",
+    "localeLA": "上下文捕获",
     "localeIA": "语言审阅者",
     "githubLabel": "查看源",
     "dashLabel": "查看林戈波特控制面板",

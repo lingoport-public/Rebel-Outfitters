@@ -1,10 +1,10 @@
 {
     "title": {
-    "1":"3P0",
-    "2":"Droïde - Séries DUM",
-    "3":"Droïde Neurochirurgien 2-1B",
+    "1": "3P0",
+    "2": "Droïde - Séries DUM",
+    "3": "Droïde Neurochirurgien 2-1B",
     "4": "IG-88B Droïde",
-    "5":"Frégate Sphyrna",
+    "5": "Frégate Sphyrna",
     "6": "Droïde garagiste G2",
     "7": "CR90 Corvette",
     "8": "74-Z Vélocirapteur",
@@ -128,6 +128,7 @@
     "localeYO": "Yoda",
     "localeSI": "Sith",
     "localeEO": "Espéranto",
+    "localeLA": "Capture du contexte",
     "localeIA": "Revue linguistique",
     "githubLabel": "Voir la source",
     "dashLabel": "Voir le tableau de bord Lingoport",
