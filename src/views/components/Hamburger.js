@@ -31,7 +31,7 @@ let Hamburger = {
         let localeRU = i18n.getString("Hamburger", "localeRU");
         let localeEO = i18n.getString("Hamburger", "localeEO");
         let localeIA = i18n.getString("Hamburger", "localeIA");
-       // let localeCTX = i18n.getString("Hamburger", "localeCTX");
+        let localeCTX = i18n.getString("Hamburger", "localeCTX");
         let githubLabel = i18n.getString("Hamburger", "githubLabel");
         let dashLabel = i18n.getString("Hamburger", "dashLabel");
         let contactLabel = i18n.getString("Hamburger", "contactLabel");
@@ -62,7 +62,7 @@ let Hamburger = {
                     <option value="pl-PL">${localePL}</option>
                     <option value="pt-PT">${localePT}</option>
                     <option value="es-SP">${localeES}</option> 
-                    <option value="sa">${localeRU}</option>
+                    <option value="sa">${localeCTX}</option>
                     <option value="eo">${localeEO}</option>
                     <option value="ia">${localeIA}</option>
                 </select>
