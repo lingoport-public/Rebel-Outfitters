@@ -65,7 +65,7 @@ let Hamburger = {
                     <option value="ru-RU">${localeRU}</option>
                     <option value="eo">${localeEO}</option>
                     <option value="ia">${localeIA}</option>
-                    <option value="la">${localeLA}</option>
+                    <option value="sa">${localeLA}</option>
                 </select>
             </div>
             <div class="githubLink outsideLink block">
