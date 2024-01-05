@@ -39,8 +39,8 @@ const i18n = {
             return `<img src="img/${color}Symbol.svg" class="symbol" alt="${symbolAlt}">
             <h4>${formatted}</h4>`;
         }
-        //psuedo locale
-        else if(locale == 'eo' || locale == 'ia') {
+        //pseudo locale
+        else if(locale == 'eo' || locale == 'ia' || locale='la' || locale='sa') {
             return `<h4>&#8375;${convertCurrency(price)}</h4>`
         }
         //format using actual symbol and conventions if it's a real locale
