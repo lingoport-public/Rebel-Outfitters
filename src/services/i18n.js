@@ -40,7 +40,7 @@ const i18n = {
             <h4>${formatted}</h4>`;
         }
         //pseudo locale
-        else if(locale == 'eo' || locale == 'ia' || locale='la' || locale='sa') {
+        else if(locale == 'eo' || locale == 'ia' || locale == 'la' || locale == 'sa') {
             return `<h4>&#8375;${convertCurrency(price)}</h4>`
         }
         //format using actual symbol and conventions if it's a real locale
