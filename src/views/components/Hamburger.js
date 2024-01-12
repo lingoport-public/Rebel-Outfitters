@@ -62,7 +62,7 @@ let Hamburger = {
                     <option value="pl-PL">${localePL}</option>
                     <option value="pt-PT">${localePT}</option>
                     <option value="es-SP">${localeES}</option> 
-                    <option value="sa">${localeCTX}</option>
+                    <option value="la">${localeCTX}</option>
                     <option value="eo">${localeEO}</option>
                     <option value="ia">${localeIA}</option>
                 </select>
