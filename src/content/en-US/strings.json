@@ -95,9 +95,9 @@
         "closeAlt": "Close Cart"
     },
     "OrderHistory": {
-        "historyTitle": "Order History",
-        "dateHeading": "Date",
-        "numberHeading": "Order Number",
+        "historyTitle": "Your Past Orders",
+        "dateHeading": "Delivery Date",
+        "numberHeading": "Number",
         "totalHeading": "Total",
         "statusHeading": "Status"
     },
