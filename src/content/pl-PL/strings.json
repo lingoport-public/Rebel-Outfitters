@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0",
+    "1": "Kontekst 3P0",
     "2": "Droid z serii Dum",
     "3": "2-1B Chirurg mózgu Droid",
     "4": "Droid IG-88B",
@@ -12,9 +12,7 @@
     "10": "Droid serii R3",
     "11": "T-70 X-Wing",
     "12": "Myśliwiec Galaktyczny Y-Wing",
-    "13": "Super Taktyczny Droid",
-    "17": "Numery pierwsze są tak fajne",
-    "18": "Zgadnij, że numer!"
+    "13": "Super Taktyczny Droid"
     },
     "desc": {
     "1": "Ten droid jest wyposażony w SyntheTech AA-1 VerboBrain, dzięki czemu są zdolne do przechowywania ogromnych ilości informacji, dodatkowa przestrzeń pamięci jest często używana do przechowywania modułów komunikacyjnych w pamięci aktywnej, tak aby można było uniknąć długich opóźnień podczas wyszukiwania informacji językowych o połowie tłumaczenia. Moduł komunikacyjny TranLang III pozwala biegle w ponad sześciu milionach form komunikacji. Posiadają również umiejętności niezbędne do szybkiej analizy nowych niezarejestrowanych języków i przełożenia ich na bardziej znane.",
@@ -130,6 +128,7 @@
     "localeYO": "Yoda",
     "localeSI": "Sith",
     "localeEO": "Esperanto",
+    "localeLA": "Przechwytywanie",
     "localeIA": "Recenzent językowy",
     "githubLabel": "Wyświetl źródło",
     "dashLabel": "Wyświetl panel Lingoport",

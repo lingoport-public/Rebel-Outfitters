@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "30P",
+    "1": "Contesto P30",
     "2": "Droide serie DUM",
     "3": "Droide chirurgo cerebrale 2-1B",
     "4": "IG-88B Droide",
@@ -12,9 +12,7 @@
     "10": "Droide serie R3",
     "11": "T-70 X-Wing",
     "12": "Caccia Galattico Y-Wing",
-    "13": "Droide Super Tattico",
-    "17": "I numeri primi sono così fantastici",
-    "18": "Indovina quel numero!"
+    "13": "Droide Super Tattico"
     },
     "desc": {
     "1": "Questo droide è dotato di un SyntheTech AA-1 VerboBrain che li rende in grado di memorizzare enormi quantità di informazioni, lo spazio di memoria aggiuntivo è spesso usato per mantenere i moduli di comunicazione nella memoria attiva in modo che lunghi ritardi possano essere evitati durante la ricerca di informazioni linguistiche sulla traduzione intermedia. Un modulo di comunicazione TranLang III permette loro di essere fluenti in oltre sei milioni di forme di comunicazione. Hanno anche le competenze necessarie per analizzare rapidamente nuove lingue non registrate e tradurle in quelle più conosciute.",
@@ -130,6 +128,7 @@
     "localeYO": "Yoda",
     "localeSI": "Sith",
     "localeEO": "esperanto",
+    "localeLA": "Cattura",
     "localeIA": "Revisore linguistico",
     "githubLabel": "Visualizza origine",
     "dashLabel": "Visualizza dashboard Lingoport",
