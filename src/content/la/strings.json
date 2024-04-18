@@ -6,6 +6,7 @@
     "droidTitle": "105.1609 All Captured Droids",
     "vehicleTitle": "105.1610 All Vehicles"
   },
+  "CanceledOrder": "105.62580 Cancelled Orders",
   "Cart": {
     "cartTitle": "105.1640 Shopping Cart",
     "checkoutLabel": "105.1644 CHECKOUT",
@@ -110,6 +111,7 @@
     "addToCartLabel": "105.1639 ADD TO CART",
     "qtyLabel": "105.1638 Qty: "
   },
+  "ReturnedOrder": "105.62581 Return Order #[[0]]",
   "Special": "105.1683 Special",
   "desc": {
     "1": "105.1582 This droid is equipped with a SyntheTech AA-1 VerboBrain making them capable of storing enormous amounts of information, the additional memory space is often used to keep communication modules in the active memory so that long delays could be avoided while searching for linguistic information on mid-translation. A TranLang III communications module allows them to be fluent in over six million forms of communication. They also have the skills necessary to quickly analyze new unregistered languages and translate them into more well-known ones.",
