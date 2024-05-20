@@ -91,7 +91,7 @@
         "noItemMsg": "No items in cart.",
         "deleteAlt": "Delete item from cart",
         "totalTitle": "Total: ",
-        "checkoutLabel": "CHECKOUT",
+        "checkoutLabel": "CHECKOUT ITEMS",
         "closeAlt": "Close Cart"
     },
     "OrderHistory": {
