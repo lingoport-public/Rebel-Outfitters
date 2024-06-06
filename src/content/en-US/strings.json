@@ -102,7 +102,7 @@
     "ErrorMessages": {
         "errorMessage": "Unknown Error",
         "code401": "Unauthorized",
-        "code402": "Payment Required"
+        "code402": "Payment Required",
         "code403": "Forbidden",
         "code404": "Not Found"
     },
