@@ -99,8 +99,12 @@
         "totalHeading": "Total",
         "statusHeading": "Status"
     },
-    "Error404": {
-        "errorMessage": "404 Error: Page not found."
+    "ErrorMessages": {
+        "errorMessage": "Unknown Error",
+        "code401": "Unauthorized",
+        "code402": "Payment Required"
+        "code403": "Forbidden",
+        "code404": "Not Found"
     },
     "Bottombar": {
         "menuAlt": "open sidebar menu"
