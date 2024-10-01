@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0-Botschafter",
+    "1": "3P0!",
     "2": "Dum-Serie Droid",
     "3": "2-1B chirurgischer Droid",
     "4": "IG-88B Droid",
@@ -50,8 +50,8 @@
     "symbolAlt": "Währungssymbol für britische Kredit"
     },
     "Browse": {
-    "droidTitle": "Alle Droiden",
-    "vehicleTitle": "Alle Fahrzeuge"
+    "droidTitle": "Droiden",
+    "vehicleTitle": "Fahrzeuge"
     },
     "Checkout": {
     "checkoutTitle": "Kasse",
@@ -136,5 +136,5 @@
     "statusShipped": "Versendet",
     "statusDelivered": "Zugestellt"
     },
-  "Special": "Besondere"
+  "Special": "Spezielle keine Hierarchie"
 }

@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0 アンバサダー",
+    "1": "3P0!",
     "2": "Dumシリーズ・ドロイド",
     "3": "2-1B 外科用ドロイド",
     "4": "ドロイド",
@@ -50,8 +50,8 @@
     "symbolAlt": "インペリアル信用通貨記号"
     },
     "Browse": {
-    "droidTitle": "すべてのドロイド",
-    "vehicleTitle": "すべての車両"
+    "droidTitle": "ドロイド",
+    "vehicleTitle": "車両"
     },
     "Checkout": {
     "checkoutTitle": "チェックアウト",
@@ -136,5 +136,5 @@
     "statusShipped": "発送済み",
     "statusDelivered": "配信済み"
     },
-  "Special": "特別"
+  "Special": "階層なしの特別な設定"
 }

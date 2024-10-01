@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "3P0 Droïde",
+    "1": "3P0 !",
     "2": "Droïde série DUM",
     "3": "2-1B Droïde chirurgical",
     "4": "IG-88B Droïde",
@@ -45,13 +45,13 @@
     "navLinkVehicles": "VÉHICULES"
     },
     "Home": {
-    "welcomeMessage":"Bon été - Pour les tests Lingoport !",
+    "welcomeMessage": "Bon été - Pour les tests Lingoport !",
     "welcomeSubtitle": "Nous fournissons tout ce dont vous avez besoin pour prendre l'Empire (et les écraser).",
     "symbolAlt": "Symbole de devise du crédit impérial"
     },
     "Browse": {
-    "droidTitle": "Tous les droïdes",
-    "vehicleTitle": "Tous les véhicules"
+    "droidTitle": "Droïdes",
+    "vehicleTitle": "Véhicules"
     },
     "Checkout": {
     "checkoutTitle": "Paiements",
@@ -136,5 +136,5 @@
     "statusShipped": "Expédié",
     "statusDelivered": "Livré"
     },
-  "Special": "Spécial"
+  "Special": "Pas de hiérarchie spéciale"
 }
