@@ -1,6 +1,6 @@
 {
     "title": {
-        "1":"3P0 Gold",
+        "1":"3P0",
         "2": "DUM-series Droid",
         "3": "2-1B Neurosurgeon Droid",
         "4": "IG-88B Droid",
@@ -43,7 +43,7 @@
         "navLinkVehicles": "VEHICLES"
     },
     "Home": {
-        "welcomeMessage": "Welcome to Elsevier Rebel Outfitters!",
+        "welcomeMessage": "Welcome to Amadeus Rebel Outfitters!",
         "welcomeSubtitle": "We provide everything you need to take on the Empire (and crush them).",
         "symbolAlt": "Imperial Credit currency symbol"
     },
