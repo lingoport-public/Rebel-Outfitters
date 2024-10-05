@@ -1,0 +1,22 @@
+{
+  "Checkout": {
+    "_LRM_INCONTEXT214": " https://poc.lingoport.io/incontext-server/lookup?key=58_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
+    "payNameHolder": "\uDB40\uDC3CFirst & Last\uDB40\uDC40\uDB40\uDC39\uDB40\uDC36\uDB40\uDC32\uDB40\uDC36\uDB40\uDC5F\uDB40\uDC5F\uDB40\uDC33\uDB40\uDC30\uDB40\uDC3E",
+    "_LRM_INCONTEXT772": " https://poc.lingoport.io/incontext-server/lookup?key=56_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
+    "paySectionLabel": "\uDB40\uDC3CPayment Method\uDB40\uDC40\uDB40\uDC39\uDB40\uDC36\uDB40\uDC32\uDB40\uDC37\uDB40\uDC5F\uDB40\uDC5F\uDB40\uDC33\uDB40\uDC30\uDB40\uDC3E",
+    "_LRM_INCONTEXT219": " https://poc.lingoport.io/incontext-server/lookup?key=54_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
+    "shipOvernight": "\uDB40\uDC3CGalactic Overnight\uDB40\uDC40\uDB40\uDC39\uDB40\uDC36\uDB40\uDC32\uDB40\uDC38\uDB40\uDC5F\uDB40\uDC5F\uDB40\uDC33\uDB40\uDC30\uDB40\uDC3E"
+  },
+  "Home": {
+    "_LRM_INCONTEXT152": " https://poc.lingoport.io/incontext-server/lookup?key=40_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
+    "welcomeMessage": "\uDB40\uDC3CWelcome to Elsevier Rebel Outfitters!\uDB40\uDC40\uDB40\uDC39\uDB40\uDC36\uDB40\uDC32\uDB40\uDC39\uDB40\uDC5F\uDB40\uDC5F\uDB40\uDC33\uDB40\uDC30\uDB40\uDC3E"
+  },
+  "OrderHistory": {
+    "_LRM_INCONTEXT164": " https://poc.lingoport.io/incontext-server/lookup?key=81_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
+    "dateHeading": "\uDB40\uDC3CDelivery Date\uDB40\uDC40\uDB40\uDC39\uDB40\uDC36\uDB40\uDC33\uDB40\uDC30\uDB40\uDC5F\uDB40\uDC5F\uDB40\uDC33\uDB40\uDC30\uDB40\uDC3E",
+    "_LRM_INCONTEXT311": " https://poc.lingoport.io/incontext-server/lookup?key=80_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
+    "historyTitle": "\uDB40\uDC3CYour Past Orders\uDB40\uDC40\uDB40\uDC39\uDB40\uDC36\uDB40\uDC33\uDB40\uDC31\uDB40\uDC5F\uDB40\uDC5F\uDB40\uDC33\uDB40\uDC30\uDB40\uDC3E",
+    "_LRM_INCONTEXT923": " https://poc.lingoport.io/incontext-server/lookup?key=82_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
+    "numberHeading": "\uDB40\uDC3CNumber\uDB40\uDC40\uDB40\uDC39\uDB40\uDC36\uDB40\uDC33\uDB40\uDC32\uDB40\uDC5F\uDB40\uDC5F\uDB40\uDC33\uDB40\uDC30\uDB40\uDC3E"
+  }
+}
