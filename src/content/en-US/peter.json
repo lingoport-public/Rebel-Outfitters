@@ -2,15 +2,15 @@
   "_LRM_PKTAG839": "Rebel-Outfitters_StarwarsPayments_11_1 - CHANGES-ONLY",
   "Checkout": {
     "_LRM_INCONTEXT214": " https://poc.lingoport.io/incontext-server/lookup?key=58_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
-    "payNameHolder": "First & Last",
+    "payNameHolder": "First",
     "_LRM_INCONTEXT772": " https://poc.lingoport.io/incontext-server/lookup?key=56_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
-    "paySectionLabel": "Payment Method",
+    "paySectionLabel": "Payment is cold",
     "_LRM_INCONTEXT219": " https://poc.lingoport.io/incontext-server/lookup?key=54_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
-    "shipOvernight": "Galactic Overnight"
+    "shipOvernight": "Galactic Surprise"
   },
   "Home": {
     "_LRM_INCONTEXT152": " https://poc.lingoport.io/incontext-server/lookup?key=40_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
-    "welcomeMessage": "Welcome to Elsevier Rebel Outfitters!"
+    "welcomeMessage": "Welcome to Multiple Personalities Rebel Outfitters!"
   },
   "OrderHistory": {
     "_LRM_INCONTEXT164": " https://poc.lingoport.io/incontext-server/lookup?key=81_22&token=8JZGug2O004Q6q9Z00ruO5g04Lr8w7SD",
