@@ -1,0 +1,147 @@
+{
+    "title": {
+    "1": "3P0",
+    "2": "DUM-serye Droid",
+    "3": "2-1B Brain Surgeon Droid",
+    "4": "IG-88B Droid",
+    "5": "Corvette Sphere",
+    "6": "G2 Mechanic Droid",
+    "7": "CR90 Corvette",
+    "8": "74-Z Super Bisikleta",
+    "9": "Interceptor ng ETA-2",
+    "10": "R3-Series Droid",
+    "11": "T-70 X-Wing",
+    "12": "Y-Wing Galactic Fighter",
+    "13": "Super Taktikal Droid",
+    "14": "Sisidlan X",
+    "15": "Galactic Drone"
+    },
+    "desc": {
+    "1": "Ang droid na ito ay nilagyan ng isang SyntheTech AA-1 VerboBrain na ginagawang may kakayahang mag-imbak ng napakalaking halaga ng impormasyon, ang karagdagang puwang ng memorya ay madalas na ginagamit upang mapanatili ang mga module ng komunikasyon sa aktibong memorya upang maiiwasan ang mahabang pagkaantala habang naghahanap ng impormasyong pangwika sa gitna ng pagsasalin. Ang isang module ng komunikasyon ng TranLang III ay nagbibigay-daan sa kanila na maging maayos sa higit sa anim na milyong anyo ng komunikasyon. Mayroon din silang mga kasanayan na kinakailangan upang mabilis na pag-aralan ang mga bagong hindi nakarehistrong wika at isalin ang mga ito sa mas kilala.",
+    "2": "Dinisenyo para sa pagpapanatili ng mga podacers, ang mga pit droid ay abot-kayang, matibay na mga droid sa pag-aayos. Nakatayo ang mga pit droid sa taas na 1.19 metro ngunit may kakayahang tiklop sa isang compact form kapag hindi ginagamit. Maaaring i-toggle ang tampok na ito sa pamamagitan ng pag-tap sa kanilang ilong.",
+    "3": "Ang 2-1B na modelo ng droid ay lubos na advanced at matalino na ang programming nito ay higit pang advanced ng ilan sa mga nangungunang manggagamot sa kalawakan sa Rhinnal State Medical Academy, na isinasama rin ang mga heuristic processor. Ang pinaka-kapaki-pakinabang na katangian ng mga 2-1B droid ay ang kadalian kung saan maaaring i-update ng mga may-ari ang kanilang mga programming at mga add-on. Ang isang 2-1B droid ay madaling maging isang espesyalista sa neurosurgery, podiatry, pediatrics, cybernetic na kapalit ng paa, at dayuhang biyolohiya na may paglalakbay sa isang sertipikadong sentro ng serbisyo.",
+    "4": "Isang malamot na chrome war droid, ang IG-88 ay may taas ng 1.96 metro. Ang kanyang matatag na layunin, kasama ang kanyang kakayahang subaybayan ang mga target gamit ang mga advanced na sensor na sumusunog sa kanyang ulo at nagpapahintulot sa kanya na makita sa lahat ng direksyon, ay nakikita sa kanya ng malaking tagumpay. Kasama sa mga sensor na ito ang maraming pulang photoreceptors, isang sensor ng init, at isang sensor ng tunog na IG-88 ay mayroon ding isang vocoder sa base ng kanyang ulo. Ang kanyang katawan ay maaaring ganap na umikot sa digmaan ng digmaan, na nagpapahintulot sa kanya na sumabok ang mga kaaway sa lahat ng panig. Pinapayagan siya ng kanyang matigas na metal na katawan na makaligtas sa karamihan sa mga pag-atake nang hindi kumukuha ng anumang pinsala at nagtatampok ng acid-proof servo",
+    "5": "Maraming mga bagong feature ang idinagdag sa orihinal na istraktura ng Sphyrna, kabilang ang dalawang dagdag na module na naka-mount sa port at starboard ng craft, anim na escape pods sa lugar ng cargo bay, at isang ikaapat na sublight drive na naka-mount sa itaas ng pangunahing tatlong, na nagbibigay ito ng sapat na kapangyarihan upang mag-isa ang isang hindi kapansanan na Star Destroyer. 315 metro ang haba na may maximum na pagpapabilis na 900 kilometro bawat oras. Nilagyan ng isang hyper drive system.",
+    "6": "Inilaan upang makatulong sa pag-aayos ng shipboard, ang ikalawang degree na G2 repair droid ay maikli sa taas, nakatayo na 0.8 metro ang taas. Sucat din ito, na may malawak at mabigat na paninindigan na pumipilit dito na lumakad kapag naglalakad ito. Ang mga katangiang ito, na pinagsamahan ng mahabang, maraming kasangkot na leeg nito at malawakang puwang at mga paa na namamahagi ng timbang, ay nagpapakita dito ng palayaw na 'droid ng gansa. ' Ang bawat yunit ng G2 ay mayroong isang hiwalat, pilak-at-tanso na kulay na balangkas na frame na may nakalantad na kasukasuan at mga kable, na may kulay na trim. Maaaring maunawaan ng tatlong digit na mabibigat na manipulator ng droid ang karamihan sa mga tool sa pag-aayos, habang ang mga splaying feet ay tumutulong sa pagpapatatag ng mababang sentro ng grabidad nito at nagbibigay sa G2 labis na katatagan kapag nakikipag-ugnayan sa malaki at mabigat na kag",
+    "7": "Sinusukat na 150 metro ang haba, nagtatampok ito ng dalawang at apat na solong turbolaser turrets, at may kakayahang maabot ang maximum na bilis na 950 kph. Ayon kay Luke Skywalker, ang ilang mga barko na CR90 na naka-outfit ay maaaring nilagyan ng anim na dalawahang turbolasers. May kakayahang magdala ng isang buong diplomatikong escort, mayroon itong kapasidad ng pasahero sa daan-daang. Bagaman ang mga barko ay hindi itinayo bilang mga tagapagdala, ang tatlong RZ-1 A-wing interceptor ay maaaring ilakip sa mga docking ring, na nagpapahintulot sa isang maliit na escort. Nagsisilbi sila bilang gulugod ng maagang paghihimagsik at Alyansa. Bagaman hindi partikular na armado, ang CR90s ay nagtataglay ng sapat na forward power upang madali sirain ang isang Gozanti-class cruiser.",
+    "8": "Ang 74-Z Speeder Bike ay may kakayahang maabot ang bilis hanggang sa limang daang kilometro bawat oras, at may kisame ng paglipad na dalawampu't dalawampu metro. Ang 74-Z ay ang variant ng militar ng sibilyan na 74-Y. Kinokontrol ang mga ito ng mga handlebar na matatagpuan patungo sa harap ng sasakyan, at ang mga pedal ng paa na ipinakita sa ilalim ay nag-aayos ng bilis at taas. Ang lubos na mapanatili na sasakyan ay nilagyan ng mga sensor at mga aparatong komunikasyon na matatagpuan sa pagitan ng mga handlebar, kabilang ang isang comlink at isang comlink-jamming device. Ang speeder ay nilagyan ng mga sensor na sumusunod sa terrain na nakakonekta sa HUD sa helm ng driver. Sila ay armado ng isang pasulong umiikot na kanon ng blaster para sa labanan.",
+    "9": "Sinusukat na 5.47 metro ang haba, ang ETA-2 ay isang lubos na manuver na starfighter na nakatuon sa labanan at mas mabilis kaysa sa nauna nito ng Aethersprite, na may twin ion engine na nagbibigay ng maximum na pagpapabilis na 5,200G at isang maximum na bilis na 1,500 kph. Nagtatampok ang Eta-2 ng mga pakpak na may itaas at mas mababang mga radiator panel, S-foil, na binuksan upang magbuhos ng labis na init mula sa mga makina ng barko. Ang mga pakpak ng radiator ay pangunahing binuksan sa panahon ng matinding labanan. Para sa pagtatanggol, nagtatampok ang barko ng dalawang laser cannons at dalawang ion cannons. Hindi tulad ng mga laser cannons, ang mga ion cannons ng barko ay sumusunog ng mga sumabog ng plasma na nagdudulot ng pansamantalang pagkagambala sa kuryente sa kanilang target kapag epekto.",
+    "10": "Nagtatampok ang R3-series astromech droid ng karamihan sa parehong hardware tulad ng nauna nito, ang R2 unit, na kulang lamang ng extensible video sensor ng naunang droid. Ang tsasis ng R3 ay higit na silindriko, na lumilitaw bilang isang tuwid na tubo na may maikling, pinutol na kono sa base nito. Ang pagpapanatili ng droid nang tuwid ay dalawang makitid na binti, na ang bawat isa ay nagtatapos sa isang takadong paa na hugis tulad ng trapezoidal prisms, ang pangatlong binti ay nakalagay sa loob ng katawan ng droid at maaaring mapalawak kapag kinakailangan upang magbayad ng higit na katatagan. Ang pagtatapag ng disenyo ng yunit ay isang matigas, umiikot, plastex o transparisteel dome. Ang astromech ay selyadong upang payagan ang pag-andar sa vacuum ng espasyo.",
+    "11": "Ang T-70 X-wing starfighter ay isang cruciform na starfighter na may sukat na 12.48 metro ang haba na may maximum na kapasidad ng isang solong piloto at ilalim na naka-load na astromech droid, na umaangkop sa isang socket at maaaring iba-iba na i-configure para sa iba't ibang mga modelo. Kung kinakailangan, maaaring lumipad ng droid sa starfighter nang walang tulong ng isang piloto, at maaari pa ring gawin ito nang malayuan. Ang target na computer ng barko, mga kontrol sa paglipad at iba pang mahahalagang instrumento sa piloting ay matatagpuan sa loob ng isang armadong module ng cockpit, kung saan ang isang naaalis na likidong pinalamig na flight computer ay tumutulong pa sa piloto sa mga operasyon na nakabase sa barko. Ang mga access panel para sa pag-access at storage sa computer ay umiiral sa loob ng 'ilong' ng sisidlan, kasama ang isang pantulong generator at storage area na karaniwang ginagamit para sa pag-iimbak ng survival gear. Ang isang maliit na window ng sensor ay nagmamarka ng lokasyon ng mga barko na pangunahing sensor array sa mismong dulo ng nosecone, na matatagpuan sa likod ng isang emergency beacon. Sa likod ng pilot, ang isang built-in na sistema ng suporta sa buhay ay nagbibigay-daan sa manlalakbay na huminga sa isang oxygen na kapaligiran.",
+    "12": "Kilala bilang isang “wishbone” sa mga piloto ng Rebel Alliance at New Republic, ang Y-wing starfighter ay inilalagay bilang isang fighter bomber, na dinisenyo upang labanan ang daan nito sa layunin nito, maihatid ang payload nito ng mataas na eksplosibo, at labanan muli ang daan nito. Kasama sa sandata nito ang dalawang laser cannons, dalawang ion cannons, at dalawang proton torpedo launcher. Ang isang astromech droid, tulad ng isang yunit ng R2, ay maaaring mai-plug sa isang socket sa ilalim ng cockpit upang kumilos bilang isang co-pilot at pamahalaan ang iba't ibang mga sistema ng barko.",
+    "13": "Isang magandang droid para sa pagsasaayos ng mga pag-atake. Hindi maganda sa pakikipaglaban, mabuti lang sa pagpaplano."
+    },
+    "Navbar": {
+    "searchPlaceholder": "Ano ang hinahanap mo?",
+    "searchButtonLabel": "paghahanap ng mga produkto",
+    "logoAlt": "Logo ng Rebel Outfitters",
+    "searchIconAlt": "icon ng paghahanap",
+    "greetingText": "Kumusta Han",
+    "historyLink": "KASAYSAYAN NG MGA ORDER",
+    "arrowAlt": "Drop Down Arrow",
+    "cartAlt": "Ipakita ang Cart",
+    "navLinkHome": "BAHAY",
+    "navLinkDroids": "DROIDS",
+    "navLinkVehicles": "SASAKYAN"
+    },
+    "Home": {
+    "welcomeMessage": "Maligayang pagdating sa Rebel Outfitters!",
+    "welcomeSubtitle": "Nagbibigay kami ng lahat ng kailangan mo upang kunin ang Imperyo (at sirain ang mga ito).",
+    "symbolAlt": "Simbolo ng pera ng Imperial Credit"
+    },
+    "Browse": {
+    "droidTitle": "Lahat ng Droid",
+    "vehicleTitle": "Lahat ng Sasakyan"
+    },
+    "Checkout": {
+    "checkoutTitle": "Checkout",
+    "shipSectionLabel": "Impormasyon sa pagpapadala",
+    "firstNameLabel": "Unang Pangalan",
+    "lastNameLabel": "Apelyido",
+    "coordinatesLabel": "Mga Koordinate",
+    "coordinatesHolder": "0.0.0",
+    "sectorLabel": "Sektor/Quadrant",
+    "methodLabel": "Paraan ng Pagpapadala",
+    "shipLightspeed": "Bilis ng Liwanag",
+    "shipOvernight": "Magdamag",
+    "shipStandard": "Pamantayan",
+    "paySectionLabel": "Pagbabayad",
+    "payNameLabel": "Pangalan sa Card",
+    "payNameHolder": "Unang Huling",
+    "accountLabel": "Numero ng Kredito ng Imperial",
+    "accountHolder": "1234567-9876-00",
+    "securityLabel": "Code ng Seguridad",
+    "securityHolder": "123456",
+    "expDateLabel": "Petsa ng Pag-expire",
+    "cartTitle": "Shopping Cart",
+    "deleteAlt": "alisin ang item mula sa cart",
+    "totalLabel": "Kabuuan: ",
+    "orderLabel": "Maglagay ng Mga Order",
+    "termsStatement": "Nabasa ako at sumasang-ayon sa Mga Tuntunin at Kundisyon",
+    "termsLink": "(Tingnan)",
+    "successMessage": "Matagumpay na inilagay ang order!",
+    "noItemMessage": "Magdagdag ng mga item sa cart upang mag-checkout."
+    },
+    "ProductShow": {
+    "qtyLabel": "Quantity: ",
+    "addToCartLabel": "IDAGDAG SA CART"
+    },
+    "Cart": {
+    "cartTitle": "Shopping Cart",
+    "noItemMsg": "Walang mga item sa cart.",
+    "deleteAlt": "Tanggalin ang item mula sa cart",
+    "totalTitle": "Kabuuan: ",
+    "checkoutLabel": "CHECKOUT",
+    "closeAlt": "Isara ang Cart"
+    },
+    "OrderHistory": {
+    "historyTitle": "Kasaysayan ng Order",
+    "dateHeading": "Petsa",
+    "numberHeading": "Numero ng Order",
+    "totalHeading": "Kabuuan",
+    "statusHeading": "Katayuan"
+    },
+    "Error404": {
+    "errorMessage": "Error 404: Hindi natagpuan ang pahina."
+    },
+    "Bottombar": {
+    "menuAlt": "Buksan ang Menu"
+    },
+    "Hamburger": {
+    "githubLogoAlt": "Logo ng GitHub",
+    "lingoLogoAlt": "Logo ng Lingoport",
+    "versionLabel": "Bersyon: ",
+    "versionBad": "Hindi sumusunod sa I18N",
+    "versionGood": "Sumusunod sa i18n",
+    "versionIQA": "InContext",
+    "localeLabel": "Lokal: ",
+    "localeEN": "Ingles - Estados Unidos",
+    "localeFR": "Pranses - France",
+    "localeZH": "Intsik - Tsina",
+    "localeES": "Espanyol - Espanya",
+    "localeDE": "Aleman - Alemanya",
+    "localeJA": "Hapon - Japan",
+    "localeRU": "Ruso - Russia",
+    "localeIT": "Italyano - Italya",
+    "localeKO": "Koreano - Korea",
+    "localePL": "Poland - Poland",
+    "localePT": "Portuges - Portugal",
+    "localeNO": "Norwegian - Norway",
+    "localeYO": "Yoda",
+    "localeSI": "Sith",
+    "localeEO": "Esperanto",
+    "localeIA": "Tagasuri ng lingwistika",
+    "githubLabel": "Tingnan ang Pinagmulan",
+    "dashLabel": "Tingnan ang Lingoport Dashboard",
+    "contactLabel": "Makipag-ugnay sa amin",
+    "learnLabel": "Matuto nang Higit Pa"
+    },
+    "Order": {
+    "statusProcessing": "Pagproseso",
+    "statusShipped": "Ipinadala",
+    "statusDelivered": "Naihatid"
+    },
+  "Special": "Espesyal",
+  "Athena": "Vulcan",
+  "Greece": "Gresya"
+}
