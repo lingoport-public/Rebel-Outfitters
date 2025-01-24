@@ -140,7 +140,5 @@
         "statusShipped": "Shipped",
         "statusDelivered": "Delivered"
     },
-    "Special": "Special",
-    "CanceledOrder": "Cancelled Orders",
-    "ReturnedOrder": "Returned Order #{0}"
+    "Special": "Special"
 }
