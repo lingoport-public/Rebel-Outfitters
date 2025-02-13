@@ -1,0 +1,3 @@
+src/content/fr-FR/resources.json
+src/content/tl/strings.json
+src/content/tl/resources.json
