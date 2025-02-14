@@ -140,5 +140,7 @@
         "statusShipped": "Shipped",
         "statusDelivered": "Delivered"
     },
-    "Special": "Special"
+    "Special": "Special",
+    "E500": "Error 500", 
+    "Test": "Test"
 }
