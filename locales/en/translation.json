@@ -5,7 +5,14 @@
  "id_5_1":"Celsius2",
  "429":"Celsius2",
  "id2_3":"Hello2",
- "Cart_^o^_checkoutLabel":"Hello2",
  "id2_4":"Goodbye",
- "OrderHistory_^o^_totalHeading":"Celsius2"
+ "2_1":"Hello World",
+ "Cart_^o^_checkoutLabel":"This is a test",
+ "2_3":"Frame 1",
+ "3_1":"This text is red",
+ "3_2":"This text is partially blue",
+ "3_3":"Green text here",
+ "3_4":"Frame 2",
+ "3_5":"Small Test String",
+ "OrderHistory_^o^_totalHeading":"Test string outside of frame"
 }
