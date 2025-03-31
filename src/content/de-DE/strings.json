@@ -43,7 +43,7 @@
     "navLinkVehicles": "FAHRZEUGE"
     },
     "Home": {
-    "welcomeMessage": "Willkommen bei Rebel Outfitters v. Capture!",
+    "welcomeMessage": "Willkommen bei Rebel Outfitters auf dem RWS-Campus!",
     "welcomeSubtitle": "Wir bieten alles, was du brauchst, um es mit dem Imperium aufzunehmen (und es zu zerstören).",
     "symbolAlt": "Währungssymbol für britische Kredit"
     },
@@ -140,5 +140,7 @@
     "statusShipped": "Versendet",
     "statusDelivered": "Zugestellt"
     },
-  "Special": "Besondere"
+  "Special": "Besondere",
+  "CanceledOrder": "Stornierte Bestellungen",
+  "ReturnedOrder": "Zurückgesendete Bestellung #{0}"
 }
