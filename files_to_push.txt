@@ -1,3 +1,2 @@
-src/content/fr-FR/resources.json
-src/content/tl/strings.json
-src/content/tl/resources.json
+src/content/ia/resources.json
+src/content/ia/strings.json
