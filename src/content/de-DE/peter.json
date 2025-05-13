@@ -1,0 +1,15 @@
+{
+  "Checkout": {
+    "payNameHolder": "",
+    "paySectionLabel": "",
+    "shipOvernight": ""
+  },
+  "Home": {
+    "welcomeMessage": ""
+  },
+  "OrderHistory": {
+    "dateHeading": "",
+    "historyTitle": "",
+    "numberHeading": ""
+  }
+}
