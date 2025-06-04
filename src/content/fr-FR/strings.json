@@ -1,6 +1,15 @@
 {
     "title": {
-    "1":"Du contexte pour 3P0",
+    "1": "3P0",
+    "2": "Droïde série DUM",
+    "3": "Droïde du chirurgien cérébral 2-1B.",
+    "4": "IG-88B Droid",
+    "5": "Sphyrna Corvette",
+    "6": "G2 Mechanic Droid",
+    "7": "CR90 Corvette",
+    "8": "Super vélo 74 Z",
+    "9": "ETA-2 Interceptor",
+    "10": "Droid série R3",
     "11": "T-70 X-Wing",
     "12": "Vaisseau galactique Y-Wing",
     "13": "Super Droïde tactique"
@@ -28,10 +37,13 @@
     "greetingText": "Salut Han",
     "historyLink": "HISTORIQUE DES COMMANDES",
     "arrowAlt": "Flèche déroulante",
-    "cartAlt": "Afficher le panier"
+    "cartAlt": "Afficher le panier",
+    "navLinkHome": "DOMICILE",
+    "navLinkDroids": "DROÏDES",
+    "navLinkVehicles": "VÉHICULES"
     },
     "Home": {
-    "welcomeMessage": "Bienvenue sur Rebel Outfitters v. Capture !",
+    "welcomeMessage": "Bienvenue à Peter dans Context pour Trados Enterprise !",
     "welcomeSubtitle": "Nous vous fournissons tout ce dont vous avez besoin pour affronter l'Empire (et le détruire).",
     "symbolAlt": "Symbole de devise du Crédit"
     },
@@ -91,7 +103,7 @@
     "errorMessage": "404 Erreur : Page introuvable."
     },
     "Bottombar": {
-    "menuAlt":"ouvrir le menu1 de la barre latérale"
+    "menuAlt": "ouvrir le menu1 de la barre latérale"
     },
     "Hamburger": {
     "githubLogoAlt": "Logo GitHub",
