@@ -2,17 +2,19 @@
   "title": {
     "1": "54.9669 3P0",
     "2": "54.9670 DUM-series Droid",
-    "3": "54.9671 2-1B Brain Surgeon Droid",
+    "3": "54.9671 2-1B Brain Surgeon Droids",
     "4": "54.9672 IG-88B Droid",
     "5": "54.9673 Sphyrna Corvette",
     "6": "54.9674 G2 Mechanic Droid",
     "7": "54.9675 CR90 Corvette",
-    "8": "54.9676 74-Z Super Bike",
+    "8": "54.9676 74-Z Super Bikes",
     "9": "54.9677 ETA-2 Interceptor",
-    "10": "54.9678 R3-Series Droid",
+    "10": "54.9678 R3-Series Droids",
     "11": "54.9679 T-70 X-Wing",
     "12": "54.9680 Y-Wing Galactic Fighter",
-    "13": "54.9681 Super Tactical Droid"
+    "13": "54.9681 Super Tactical Droid",
+    "14": "54.10594 Novo Droid",
+    "15": "54.10595 New Droid"
   },
   "desc": {
     "1": "54.9682 This droid is equipped with a SyntheTech AA-1 VerboBrain making them capable of storing enormous amounts of information, the additional memory space is often used to keep communication modules in the active memory so that long delays could be avoided while searching for linguistic information on mid-translation. A TranLang III communications module allows them to be fluent in over six million forms of communication. They also have the skills necessary to quickly analyze new unregistered languages and translate them into more well-known ones.",
@@ -73,7 +75,7 @@
     "expDateLabel": "54.9729 Expiration Date",
     "cartTitle": "54.9730 Shopping Cart",
     "deleteAlt": "54.9731 remove item from cart",
-    "totalLabel": "54.9732 Total: ",
+    "totalLabel": "54.9732 Total:",
     "orderLabel": "54.9733 PLACE ORDER",
     "termsStatement": "54.9734 I have read and agree to the Terms and Conditions",
     "termsLink": "54.9735 (View)",
@@ -81,14 +83,14 @@
     "noItemMessage": "54.9737 Add items to cart to checkout."
   },
   "ProductShow": {
-    "qtyLabel": "54.9738 Qty: ",
+    "qtyLabel": "54.9738 Qty:",
     "addToCartLabel": "54.9739 ADD TO CART"
   },
   "Cart": {
     "cartTitle": "54.9740 Shopping Cart",
     "noItemMsg": "54.9741 No items in cart.",
     "deleteAlt": "54.9742 Delete item from cart",
-    "totalTitle": "54.9743 Total: ",
+    "totalTitle": "54.9743 Total:",
     "checkoutLabel": "54.9744 CHECKOUT",
     "closeAlt": "54.9745 Close Cart"
   },
@@ -108,11 +110,11 @@
   "Hamburger": {
     "githubLogoAlt": "54.9753 GitHub Logo",
     "lingoLogoAlt": "54.9754 Lingoport Logo",
-    "versionLabel": "54.9755 Version: ",
+    "versionLabel": "54.9755 Version:",
     "versionBad": "54.9756 Non-i18n Compliant",
     "versionGood": "54.9757 I18n Compliant",
     "versionIQA": "54.9758 InContext",
-    "localeLabel": "54.9759 Locale: ",
+    "localeLabel": "54.9759 Locale:",
     "localeEN": "54.9760 English - United States",
     "localeFR": "54.9761 French - France",
     "localeZH": "54.9762 Chinese - China",
@@ -140,5 +142,7 @@
     "statusShipped": "54.9782 Shipped",
     "statusDelivered": "54.9783 Delivered"
   },
-  "Special": "54.9784 Special"
+  "Special": "54.9784 Special",
+  "NovoReview": "54.10596 NovoReview",
+  "NovoReview2": "54.10597 Novo Droid 5"
 }
