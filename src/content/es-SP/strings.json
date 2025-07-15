@@ -140,5 +140,7 @@
     "statusShipped": "Enviado",
     "statusDelivered": "Entregado"
     },
-  "Special": "Especial"
+  "Special": "Especial",
+  "CanceledOrder": "Pedidos cancelados",
+  "ReturnedOrder": "Pedido devuelto # {0}"
 }
