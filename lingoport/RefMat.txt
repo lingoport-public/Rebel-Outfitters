@@ -1,0 +1,3 @@
+Instructions to translators
+
+This could be for instance how to correct "Interceptor" into French or what a droid is.
