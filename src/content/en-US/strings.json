@@ -141,6 +141,6 @@
         "statusDelivered": "Delivered"
     },
     "Special": "Special",
-    "CanceledOrder": "Cancel Order",
-    "ReturnedOrder": "Returned Order #{0}"
+    "CanceledOrder": "Order Detail",
+    "ReturnedOrder": "Next"
 }
