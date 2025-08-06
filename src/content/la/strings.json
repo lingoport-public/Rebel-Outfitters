@@ -141,6 +141,6 @@
     "statusDelivered": "14.651 Delivered"
   },
   "Special": "14.652 Special",
-  "CanceledOrder": "14.653 Cancelled Orders",
-  "ReturnedOrder": "14.654 Returned Order #[[0]]"
+  "CanceledOrder": "14.653 Order Detail",
+  "ReturnedOrder": "14.654 Next"
 }
