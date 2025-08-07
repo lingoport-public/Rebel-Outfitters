@@ -140,5 +140,7 @@
     "statusShipped": "Expédié",
     "statusDelivered": "Livré"
     },
-  "Special": "Spécial"
+  "Special": "Spécial",
+  "CanceledOrder": "Détails de la commande",
+  "ReturnedOrder": "Suivant"
 }

@@ -140,5 +140,7 @@
     "statusShipped": "Versendet",
     "statusDelivered": "Zugestellt"
     },
-  "Special": "Besondere"
+  "Special": "Besondere",
+  "CanceledOrder": "Auftragsdetails",
+  "ReturnedOrder": "Als Nächstes"
 }
