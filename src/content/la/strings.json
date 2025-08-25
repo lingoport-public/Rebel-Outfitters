@@ -142,5 +142,7 @@
   },
   "Special": "76.10756 Special",
   "CanceledOrder": "76.10757 Cancelled Orders",
-  "ReturnedOrder": "76.10758 Returned Order #[[0]]"
+  "ReturnedOrder": "76.10758 Returned Order #[[0]]",
+  "Newstring": "76.10916 New String",
+  "Anotherone": "76.10917 Another one"
 }
