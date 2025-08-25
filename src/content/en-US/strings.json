@@ -142,5 +142,7 @@
     },
     "Special": "Special",
     "CanceledOrder": "Cancelled Orders",
-    "ReturnedOrder": "Returned Order #{0}"
+    "ReturnedOrder": "Returned Order #{0}",
+    "Newstring": "New String",
+    "Anotherone": "Another one"
 }
