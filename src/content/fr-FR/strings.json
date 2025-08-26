@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "Oulala, le contexte de dingue ! 3P0",
+    "1": "3P0",
     "2": "Droïde - Séries DUM",
     "3": "Droïde neurochirurgien 2-1B",
     "4": "IG-88B Droïde",
@@ -142,5 +142,7 @@
     },
   "Special": "Spécial",
   "CanceledOrder": "Commandes annulées",
-  "ReturnedOrder": "Commande retournée # {0}"
+  "ReturnedOrder": "Commande retournée # {0}",
+  "Newstring": "Nouvelle chaîne",
+  "Anotherone": "Un autre"
 }

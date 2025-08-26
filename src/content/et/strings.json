@@ -1,0 +1,148 @@
+{
+    "title": {
+    "1": "3P0",
+    "2": "DUM-seeria Droid",
+    "3": "2-1B ajukirurg Droid",
+    "4": "IG-88B Droid",
+    "5": "Sphyrna Corvette",
+    "6": "G2 mehaanik Droid",
+    "7": "CR90 Corvette",
+    "8": "74-Z superjalgratas",
+    "9": "ETA-2 pealtkuulaja",
+    "10": "R3-seeria Droid",
+    "11": "T-70 X-tiib",
+    "12": "Y-Wing galaktika võitleja",
+    "13": "Super taktikaline droid"
+    },
+    "desc": {
+    "1": "See droid on varustatud SyntheTech AA-1 VerboBrainiga, mis muudab need võimeliseks tohutul hulgal teavet salvestama, lisamäluruumi kasutatakse sageli kommunikatsioonimoodulite hoidmiseks aktiivses mälus, nii et tõlke keskel keeleteabe otsimisel saaks vältida pikki viivitusi. TranLang III sidemoodul võimaldab neil vabalt valdada üle kuue miljoni suhtlusvormi. Neil on ka oskused, mis on vajalikud uute registreerimata keelte kiireks analüüsimiseks ja tuntumatesse keelte tõlkimiseks.",
+    "2": "Podratserite hooldamiseks mõeldud pit droidid on taskukohased ja vastupidavad remondidroidid. Pit droidid seisavad 1,19 meetri kõrgusel, kuid neil on võime kompaktseks vormiks kokku voltida, kui neid ei kasutata. Seda funktsiooni saab ümber lülitada, koputades nende nina.",
+    "3": "2-1B droidmudel on väga arenenud ja intelligentne, selle programmeerimist arendavad veelgi mõned Rhinnali Riikliku Meditsiiniakadeemia galaktika tipparstid, kes integreerivad ka heuristilisi protsessoreid. 2-1B droidide kõige kasulikum omadus on lihtsus, millega omanikud saavad oma programmeerimist ja lisandeid värskendada. 2-1B droidist võib kergesti saada neurokirurgia, podiaatria, pediaatria, küberneetiliste jäsemete asendamise ja võõraste bioloogia spetsialist, reisides sertifitseeritud teeninduskeskusesse.",
+    "4": "Peksitud kroomitud sõjadroid IG-88 on 1,96 meetri kõrgune. Tema püsiv eesmärk koos võimega jälgida sihtmärke täiustatud anduritega, mis helistavad talle peas ja võimaldavad tal näha igas suunas, teenib talle suure edu. Nende andurite hulka kuuluvad mitu punast fotoretseptorit, soojusandurit ja helianduril IG-88 on ka vokooder pea põhjas. Tema kere suudab lahinguväljal täielikult pöörlema, võimaldades tal vaenlasi igast küljest plahvatada. Tema karm metallkorpus võimaldab tal enamiku rünnakute üle elada ilma kahjustusteta ja sellel on happekindlad servovahendid.",
+    "5": "Algsele Sphyrna struktuurile on lisatud mitmeid uusi funktsioone, sealhulgas kaks lisamoodulit, mis on paigaldatud laeva sadamale ja paremale pardale, kuus põgenemiskauna kaubalahe asemel ja neljas alamvalgusajam, mis on paigaldatud esmase kolme peale, andes sellele piisavalt jõudu puudega tähehävitaja üksi liigutada. 315 meetrit pikkus maksimaalse kiirendusega 900 kilomeetrit tunnis. Varustatud hüperajamissüsteemiga.",
+    "6": "Teise astme G2 remondidroid, mis on mõeldud laeva remonditööde abistamiseks, on lühikese kasvuga, seisab 0,8 meetri kõrgusel. See on ka kükitav, laia, põhjast raske hoiakuga, mis sunnib seda kõndides kõndima. Need tunnused koos pika mitme liigendusega kaela ja laialt asetsevate kaalu jaotavate jalgadega annavad sellele hüüdnime „hane droid”. Igal G2 seadmel on lahti võetud hõbedast ja messingist värvi luustikraam, millel on avatud vuugid ja juhtmestik, värvilise viimistlusega. Droidi kolmekohalised rasked manipulaatorid suudavad haarata enamikust remonditööriistadest, samas kui laiendatud jalad aitasid stabiliseerida selle madalat raskuskeskme ja annavad G2-le suure raskete seadmetega tegelemisel täiendava stabiilsuse.",
+    "7": "150 meetri pikkusega sellel on kaks kahekordset ja neli ühekordset turbolaseriga torni ning see suudab saavutada maksimaalne kiirus 950 km/h. Luke Skywalkeri sõnul saab mõnda lahinguga varustatud CR90 laeva varustada kuue kahekordse turbolaseriga. Võimeline vedama tervet diplomaatilist saatjat, reisijate maht on sadu. Kuigi laevu ei ehitata kandjatena, saab dokkirõngaste külge kinnitada kolm RZ-1 A-tiiva pealtkuulajat, võimaldades väikest saatjat. Need on varase mässu ja alliansi selgroog. Kuigi CR90-del pole eriti tugevalt relvastatud, on neil piisavalt tulejõudu, et Gozanti-klassi ristleja üsna hõlpsalt hävitada.",
+    "8": "74-Z Speeder Bike suudab saavutada kiirust kuni viissada kilomeetrit tunnis ja selle lennu ülemmäär on kakskümmend viis meetrit. 74-Z on tsiviilseadme 74-Y sõjaline variant. Neid juhivad sõiduki esiosa suunas asuvad juhtraad ja alla asetsevad jalgpedaalid reguleerivad kiirust ja kõrgust. Väga manööverdatavad sõidukid on varustatud juhtraadi vahel asuvate anduri- ja sideseadmetega, sealhulgas komlink ja komlink-segamisseade. Kiidur on varustatud maastikku jälgivate anduritega, mis ühendavad juhi kiivris oleva HUD-iga. Nad on võitluseks relvastatud ettepoole pöörleva lõhkumiskahuriga.",
+    "9": "5,47 meetri pikkune ETA-2 on väga manööverdatav lahingule orienteeritud tähevõitleja ja kiirem kui Aethersprite eelkäija, kaheioonmootorid pakuvad maksimaalset kiirendust 5200G ja maksimaalset kiirust 1500 km/h. Eta-2-l on tiivad, millel on ülemine ja alumine radiaatoripaneel, S-fooliumid, mis avatakse laeva mootoritest liigse soojuse eemaldamiseks. Radiaatori tiivad avatakse peamiselt intensiivse võitluse ajal. Kaitseks oli laeval kaks laserkahurit ja kaks ioonkahurit. Erinevalt lasersuurtest tulistavad laeva ioonkahurid plasmapurkeid, mis põhjustavad löögi korral sihtmärgile ajutisi elektrilisi häireid.",
+    "10": "R3-seeria astromech droidil on palju sama riistvara kui tema eelkäijal, R2 seadmel, millel puudub ainult varasema droidi laiendatav videoandur. R3 šassii on suures osas silindriline, ilmudes püstise toruna, mille põhjas on lühike kärbitud koonus. Droidi püsti hoiavad kaks kitsast jalga, millest igaüks lõpeb trapetsikujuliste prismade kujulise jalaga, kolmas jalg asub droidi keha sees ja seda saab suurema stabiilsuse tagamiseks vajadusel sirutada. Seadme disaini katab vastupidav, pöörlev, plasteks või läbipaistev kuppel. Astromehek on suletud, et võimaldada funktsionaalsust ruumi vaakumis.",
+    "11": "T-70 X-wing starfighter on ristkujuline tähevõitleja, mille pikkus on 12,48 meetrit, mille maksimaalne võimsus on ühe piloodi ja põhjaga koormatud astromech droid, mis mahub pistikupessa ja mida saab erinevatele mudelitele varieeruvalt konfigureerida. Vajadusel saab droid tähehävitajaga lennata ilma piloodi abita ja saab seda teha isegi eemalt. Laeva sihtimisarvuti, lennujuhtimisseadmed ja muud olulised pilootivahendid asuvad soomustatud kokpiti moodulis, mille all eemaldatav vedelikjahutusega lennuarvuti aitab pilooti veelgi laevapõhistes operatsioonides. Juurdepääsupaneelid arvutile juurdepääsuks ja hoiustamiseks on laeva ninas koos abigeneraatori ja hoiuruumiga, mida tavaliselt kasutatakse ellujäämisvahendite hoidmiseks. Väike anduri aken tähistab laeva esmase andurite massiivi asukohta ninakooni otsas, mis asub avariimajaka taga. Piloodi taga on sisseehitatud elutoetussüsteem, mis võimaldab reisijal hingata hapnikuga rikastatud atmosfääri.",
+    "12": "Y-tiiva tähehävitaja, mida tuntakse mässuliste alliansi ja New Republic pilootide „sooviluuna”, on kasutusel hävitaja-pommitajana, mille eesmärk on võidelda oma eesmärgini, tarnida oma kasulikku koormust kõrgeid lõhkeaineid ja võidelda uuesti väljapääsu. Selle relvastus sisaldab kahte laserkahurit, kahte ioonkahurit ja kahte prootontorpeedoheitjat. Astromech-droidi, näiteks R2 seadme, saab ühendada kokpiini all olevasse pistikupessa, et toimida kaaspiloodina ja hallata laeva erinevaid süsteeme.",
+    "13": "Päris hea droid rünnakute koordineerimiseks. Ei ole hea võitlemisel, lihtsalt hea planeerimisel."
+    },
+    "Navbar": {
+    "searchPlaceholder": "Mida sa otsid?",
+    "searchButtonLabel": "otsingu tooteid",
+    "logoAlt": "Rebel Outfitters logo",
+    "searchIconAlt": "otsingu ikoon",
+    "greetingText": "Tere Han",
+    "historyLink": "TELLIMUSTE AJALUGU",
+    "arrowAlt": "Rippnool",
+    "cartAlt": "näita ostukorvi",
+    "navLinkHome": "KODU",
+    "navLinkDroids": "DROIDID",
+    "navLinkVehicles": "SÕIDUKID"
+    },
+    "Home": {
+    "welcomeMessage": "Tere tulemast saidile Rebel Outfitters vs Capture!",
+    "welcomeSubtitle": "Pakume kõike, mida vajate impeeriumi vastu võtmiseks (ja nende hävitamiseks).",
+    "symbolAlt": "Imperial Credit valuuta sümbol"
+    },
+    "Browse": {
+    "droidTitle": "Kõik tabatud droidid",
+    "vehicleTitle": "Kõik sõidukid"
+    },
+    "Checkout": {
+    "checkoutTitle": "Kassa",
+    "shipSectionLabel": "Kohaletoimetamise teave",
+    "firstNameLabel": "Eesnimi",
+    "lastNameLabel": "Perekonnanimi",
+    "coordinatesLabel": "Koordinaadid",
+    "coordinatesHolder": "0.0.0",
+    "sectorLabel": "Sektor/kvadrant",
+    "methodLabel": "Kohaletoimetamise viis",
+    "shipLightspeed": "Valguskiirus",
+    "shipOvernight": "Ööbimine",
+    "shipStandard": "Standardne",
+    "paySectionLabel": "Maksmine",
+    "payNameLabel": "Nimi kaardil",
+    "payNameHolder": "Esimene viimane",
+    "accountLabel": "Imperial krediidinumber",
+    "accountHolder": "1234567-9876-00",
+    "securityLabel": "Turvakood",
+    "securityHolder": "123456",
+    "expDateLabel": "Aegumiskuupäev",
+    "cartTitle": "Ostukorv",
+    "deleteAlt": "eemaldage toode ostukorvist",
+    "totalLabel": "Kokku: ",
+    "orderLabel": "ESITAGE TELLIMUS",
+    "termsStatement": "Olen lugenud ja nõustun tingimustega",
+    "termsLink": "(Vaata)",
+    "successMessage": "Tellimus on edukalt tehtud!",
+    "noItemMessage": "Lisage kassas tooted ostukorvi."
+    },
+    "ProductShow": {
+    "qtyLabel": "Kogus: ",
+    "addToCartLabel": "LISA OSTUKORVI"
+    },
+    "Cart": {
+    "cartTitle": "Ostukorv",
+    "noItemMsg": "Ostukorvis pole tooteid.",
+    "deleteAlt": "Kustuta toode ostukorvist",
+    "totalTitle": "Kokku: ",
+    "checkoutLabel": "KASSAS",
+    "closeAlt": "Sulge ostukorv"
+    },
+    "OrderHistory": {
+    "historyTitle": "Tellimuste ajalugu",
+    "dateHeading": "Kuupäev",
+    "numberHeading": "Tellimuse number",
+    "totalHeading": "Kokku",
+    "statusHeading": "Staatus"
+    },
+    "Error404": {
+    "errorMessage": "404 Viga: Lehekülge ei leitud."
+    },
+    "Bottombar": {
+    "menuAlt": "avage külgriba menüü"
+    },
+    "Hamburger": {
+    "githubLogoAlt": "GitHubi logo",
+    "lingoLogoAlt": "Lingoporti logo",
+    "versionLabel": "Versioon: ",
+    "versionBad": "Mitte-I18N-iga ühilduv",
+    "versionGood": "i18N ühilduv",
+    "versionIQA": "InContext",
+    "localeLabel": "Kohalik: ",
+    "localeEN": "Inglise - Ameerika Ühendriigid",
+    "localeFR": "Prantsuse - Prantsusmaa",
+    "localeZH": "Hiina - Hiina",
+    "localeES": "Hispaania - Hispaania",
+    "localeDE": "Saksa - Saksamaa",
+    "localeJA": "Jaapani - Jaapan",
+    "localeRU": "Vene - Venemaa",
+    "localeIT": "Itaalia - Itaalia",
+    "localeKO": "Korea - Korea",
+    "localePL": "Poola - Poola",
+    "localePT": "Portugali - Portugal",
+    "localeNO": "Norra - Norra",
+    "localeYO": "Yoda",
+    "localeSI": "Sith",
+    "localeEO": "Esperanto",
+    "localeLA": "Jäädvustamine",
+    "localeIA": "Keeleleline retsensent",
+    "githubLabel": "Vaata allikat",
+    "dashLabel": "Vaata Lingoporti juhtpaneeli",
+    "contactLabel": "Võta meiega ühendust",
+    "learnLabel": "Lisateave"
+    },
+    "Order": {
+    "statusProcessing": "Töötlemine",
+    "statusShipped": "Saadetud",
+    "statusDelivered": "Tarnitud"
+    },
+  "Special": "Spetsiaalne",
+  "CanceledOrder": "Tühistatud tellimused",
+  "ReturnedOrder": "Tagastatud tellimus # {0}",
+  "Newstring": "Uus string",
+  "Anotherone": "Veel üks"
+}

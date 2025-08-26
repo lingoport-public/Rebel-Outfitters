@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "Kontext 3P0",
+    "1": "30P",
     "2": "Dum-Serie Droid",
     "3": "2-1B Droid des Gehirnchirurgen",
     "4": "IG-88B Droid",
@@ -142,5 +142,7 @@
     },
   "Special": "Besondere",
   "CanceledOrder": "Stornierte Bestellungen",
-  "ReturnedOrder": "Zurückgegebene Bestellung Nr. {0}"
+  "ReturnedOrder": "Zurückgegebene Bestellung Nr. {0}",
+  "Newstring": "Neue Zeichenfolge",
+  "Anotherone": "Noch einer"
 }

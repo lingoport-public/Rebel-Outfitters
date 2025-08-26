@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "Contexto 3P0",
+    "1": "30 PÁGS.",
     "2": "DUM-Droyd de la serie",
     "3": "Droide cirujano cerebral 2-1B",
     "4": "IG-88B Droid",
@@ -142,5 +142,7 @@
     },
   "Special": "Especial",
   "CanceledOrder": "Pedidos cancelados",
-  "ReturnedOrder": "Pedido devuelto # {0}"
+  "ReturnedOrder": "Pedido devuelto # {0}",
+  "Newstring": "Nueva cadena",
+  "Anotherone": "Otro"
 }

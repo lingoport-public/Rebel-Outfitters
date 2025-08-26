@@ -1,6 +1,6 @@
 {
     "title": {
-    "1": "上下文 3P0",
+    "1": "3P0",
     "2": "DUM 系列机器人",
     "3": "2-1B 脑外科医生 Droid",
     "4": "机器人",
@@ -142,5 +142,7 @@
     },
   "Special": "特别",
   "CanceledOrder": "取消的订单",
-  "ReturnedOrder": "退回的订单 # {0}"
+  "ReturnedOrder": "退回的订单 # {0}",
+  "Newstring": "新字符串",
+  "Anotherone": "另一个"
 }
