@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string translate="1" segmentID="1" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Hello_1</SID>
+    <value><![CDATA[Hello]]></value>
+  </string>
+  <string translate="1" segmentID="2" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Hello_2</SID>
+    <value><![CDATA[Hello2]]></value>
+  </string>
+</resources>
