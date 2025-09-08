@@ -1,4 +1,5 @@
 {
   "test_Hello_1": "Hello",
-  "test_Hello_2": "Hello2"
+  "test_Hello_2": "Hello2",
+  "Hello": "Hello"
 }

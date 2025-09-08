@@ -3,7 +3,7 @@
   <string translate="1" segmentID="1" minLength="" maxLength="">
     <lrm_incontext></lrm_incontext>
     <llm_prompt></llm_prompt>
-    <SID>test_Hello_1</SID>
+    <SID>Hello</SID>
     <value><![CDATA[Hello]]></value>
   </string>
 </resources>
