@@ -1,4 +1,18 @@
 {
   "less": "Less than",
-  "more": "More than"
+  "more": "More than",
+  "FK_Starter_15": "Starter",
+  "FK_Browseall_16": "Browse all",
+  "FK_return_17": "return",
+  "FK_space_18": "space",
+  "FK_register_19": "register",
+  "FK_login_20": "log in",
+  "FK_register_21": "register",
+  "FK_photo_22": "photo",
+  "FK_return_23": "return",
+  "FK_space_24": "space",
+  "FK_Search_25": "Search",
+  "FK_Searchallphotos_26": "Search all photos",
+  "FK_next_27": "next",
+  "FK_FieldName_28": "Field Name"
 }
