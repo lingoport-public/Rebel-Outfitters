@@ -4,6 +4,7 @@
   "payment.status": "État",
   "vehicules.all": "Tous les véhicules",
   "new.welcome": "Bienvenue chez Rebel Outfitters !",
-  "new.payment.status": "nouveau statut"
+  "new.payment.status": "nouveau statut",
+  "new.payment.total": "nouveau Total"
 
 }
