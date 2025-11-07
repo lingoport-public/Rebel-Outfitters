@@ -5,6 +5,7 @@
   "vehicules.all": "All vehicules", 
   "new.welcome": "Welcome to Rebel Outfitters!",
   "new.payment": "new cart",
-    "new.payment.status": "new Status"
+    "new.payment.status": "new Status",
+    "new.payment.total": "new Total"
 
 }
