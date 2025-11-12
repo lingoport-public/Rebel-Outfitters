@@ -3,5 +3,6 @@
   "payment.total": "合計",
   "payment.status": "ステータス",
   "vehicules.all": "すべての車両",
-  "new.payment": "新しいカート"
+  "new.payment": "新しいカート",
+  "new.payment.status": "新しいステータス"
 }

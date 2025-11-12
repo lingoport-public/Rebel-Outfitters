@@ -2,5 +2,6 @@
   "payment.shopping.cart": "购物车",
   "payment.total": "总计",
   "payment.status": "状态",
-  "new.payment": "新购物车"
+  "new.payment": "新购物车",
+  "new.payment.status": "新状态"
 }
