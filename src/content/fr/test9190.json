@@ -3,5 +3,6 @@
   "shipSectionLabel": "Informations sur la livraison",
   "firstNameLabel": "Prénom",
   "cart": "panier",
-  "hello": "Bonjour"
+  "hello": "Bonjour",
+  "world": "Monde"
 }
