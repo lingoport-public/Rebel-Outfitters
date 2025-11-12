@@ -1,0 +1,13 @@
+{
+        "searchPlaceholder": "What are you looking for?",
+        "searchButtonLabel": "search products",
+        "logoAlt": "Rebel Outfitters Logo",
+        "searchIconAlt": "search icon",
+        "greetingText": "Hi Han",
+        "historyLink": "ORDERS HISTORY",
+        "arrowAlt": "Drop Down Arrow",
+        "cartAlt":"Show Cart",
+        "navLinkHome": "HOME",
+        "navLinkDroids": "DROIDS",
+        "navLinkVehicles": "VEHICLES"
+}
