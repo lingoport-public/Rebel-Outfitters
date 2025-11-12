@@ -1,4 +1,5 @@
 {
   "new.payment": "新しいカート",
-  "new.payment.status": "新しいステータス"
+  "new.payment.status": "新しいステータス",
+  "new.payment.total": "新しい合計"
 }
