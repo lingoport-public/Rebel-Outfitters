@@ -3,5 +3,6 @@
         "shipSectionLabel": "Shipping Info",
         "firstNameLabel": "First Name",
         "cart":"Shopping cart",
-        "hello":"Hello"
+        "hello":"Hello",
+        "world":"World"
 }
