@@ -1,5 +1,6 @@
 {
   "checkoutTitle": "Commander",
   "shipSectionLabel": "Informations sur la livraison",
-  "firstNameLabel": "Prénom"
+  "firstNameLabel": "Prénom",
+  "cart": "panier"
 }

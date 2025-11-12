@@ -1,5 +1,6 @@
 {
   "checkoutTitle": "チェックアウト",
   "shipSectionLabel": "配送情報",
-  "firstNameLabel": "ファーストネーム"
+  "firstNameLabel": "ファーストネーム",
+  "cart": "ショッピングカート"
 }
