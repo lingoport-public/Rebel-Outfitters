@@ -3,5 +3,8 @@
   "payment.total": "Total",
   "payment.status": "Status",
   "vehicules.all": "All vehicules", 
-  "new.welcome": "Welcome to Rebel Outfitters!"
+  "new.welcome": "Welcome to Rebel Outfitters!",
+    "newpayment.total": "Total",
+  "newpayment.status": "Status",
+  "newvehicules.all": "All vehicules"
 }
