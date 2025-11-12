@@ -4,5 +4,6 @@
         "firstNameLabel": "First Name",
         "cart":"Shopping cart",
         "hello":"Hello",
-        "world":"World"
+        "world":"World",
+        "web": "Website"
 }
