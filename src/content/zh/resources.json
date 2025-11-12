@@ -1,11 +1,5 @@
 {
   "payment.shopping.cart": "购物车",
   "payment.total": "总计",
-  "payment.status": "状态",
-  "vehicules.all": "所有车辆",
-  "new.welcome": "欢迎来到 Rebel Outfitters！",
-  "new.payment": "新购物车",
-  "new.payment.status": "新状态",
-  "new.vehicules.all": "全新所有车辆",
-  "now.payment.status": "十一月状态"
+  "payment.status": "状态"
 }
