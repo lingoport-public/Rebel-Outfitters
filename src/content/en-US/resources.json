@@ -4,4 +4,10 @@
   "payment.status": "Status",
   "vehicules.all": "All vehicules", 
   "new.welcome": "Welcome to Rebel Outfitters!",
+    "new.payment": "new cart",
+    "new.payment.status": "new Status",
+    "new.payment.total": "new Total",
+    "new.vehicules.all": "new All vehicules",
+      "nov.vehicules.all": "Nov All vehicules",
+      "now.payment.status": "Nov Status"
 }
