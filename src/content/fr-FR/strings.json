@@ -1,12 +1,12 @@
 {
     "title": {
-    "1":"Du contexte pour 3P0",
+    "1": "Du contexte pour 3P0",
     "2": "Droïde - Séries DUM",
-    "3":"Droïde boucher du cerveau 2-1B",
+    "3": "Droïde boucher du cerveau 2-1B",
     "4": "IG-88B Droïde",
     "5": "Frégate Sphyrna",
     "6": "Droïde garagiste G2",
-    "7": "CR90 Corvette",
+    "7": "Corvette CR90 ",
     "8": "74-Z Vélocirapteur",
     "9": "Intercepteur ETA*2",
     "10": "Droïde modèle R3",
@@ -103,7 +103,7 @@
     "errorMessage": "404 Erreur : Page introuvable."
     },
     "Bottombar": {
-    "menuAlt":"ouvrir le menu1 de la barre latérale"
+    "menuAlt": "ouvrir le menu1 de la barre latérale"
     },
     "Hamburger": {
     "githubLogoAlt": "Logo GitHub",
@@ -138,7 +138,7 @@
     "Order": {
     "statusProcessing": "Traitement",
     "statusShipped": "Expédié",
-    "statusDelivered": "Livré"
+    "statusDelivered": "Delivre"
     },
   "Special": "Spécial"
 }
