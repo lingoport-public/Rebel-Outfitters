@@ -2,7 +2,7 @@ import {shoppingCart, orderHistory, formatCurrencyWithCommas} from "../../app.js
 
 import {Order} from "../classes/Order.js";
 
-//TODO: add click listeners for updating qty or deleting items from cart
+//TODO: add more click listeners for updating qty or deleting items from cart
 
 var total;
 
