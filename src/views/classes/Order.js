@@ -14,6 +14,7 @@ class Order {
 
         let date = mm + '/' + dd + '/' + yyyy;
         return date;
+
     }
 
 }
