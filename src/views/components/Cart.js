@@ -12,6 +12,7 @@ let Cart = {
     render: async () => {
         let total = 0;
 
+	    // re-analyse: added comment so the file is modified
         //view is solely for HTML markup, contains no static text
         let view = `
                 <div class="cartHead">
