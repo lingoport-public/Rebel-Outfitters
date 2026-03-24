@@ -1,7 +1,13 @@
 {
-  "payment.shopping.cart": "48.951 Shopping Cart",
-  "payment.total": "48.952 Total",
-  "payment.status": "48.953 Status",
-  "vehicules.all": "48.954 All vehicules",
-  "new.welcome": "48.955 Welcome to Rebel Outfitters!"
+  "payment.shopping.cart": "65.1612 Shopping Cart",
+  "payment.total": "65.1613 Total",
+  "payment.status": "65.1614 Status",
+  "vehicules.all": "65.1615 All vehicules",
+  "new.welcome": "65.1616 Welcome to Rebel Outfitters!",
+  "new.payment": "65.1617 new cart",
+  "new.payment.status": "65.1618 new Status",
+  "new.payment.total": "65.1619 new Total",
+  "new.vehicules.all": "65.1620 new All vehicules",
+  "nov.vehicules.all": "65.1621 Nov All vehicules",
+  "now.payment.status": "65.1622 Nov Status"
 }
