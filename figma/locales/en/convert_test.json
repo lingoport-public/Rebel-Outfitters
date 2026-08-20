@@ -1,6 +1,6 @@
 {
-  "test_Hello_2": "Hello world",
+  "test_Hello_2": "Hello world!",
   "Hello": "Hello",
-  "why":"why2",
-  "isForReset":"isForReset2"
+  "isForReset":"isForReset2",
+  "new":"new added"
 }
