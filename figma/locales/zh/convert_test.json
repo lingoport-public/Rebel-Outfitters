@@ -1,5 +1,6 @@
 {
-  "test_Hello_1": "你好",
-  "test_Hello_2": "你好2",
-  "Hello": "你好"
+  "test_Hello_2": "你好，世界！",
+  "Hello": "你好",
+  "isForReset": "用于重置",
+  "new": "新增"
 }

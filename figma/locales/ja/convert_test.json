@@ -1,5 +1,6 @@
 {
-  "test_Hello_1": "こんにちは",
-  "test_Hello_2": "こんにちは2",
-  "Hello": "こんにちは"
+  "test_Hello_2": "こんにちは、世界！",
+  "Hello": "こんにちは",
+  "isForReset": "リセット用（2）",
+  "new": "追加しました"
 }
