@@ -1,3 +1,5 @@
 {
-  "payment.shopping.cart": "Košík"
+  "payment.shopping.cart": "Košík",
+  "payment.total": "Celkem",
+  "payment.status": "Stav"
 }
